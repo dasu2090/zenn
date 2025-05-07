@@ -226,3 +226,67 @@ SSL証明書の信頼性が原因
 
 ### 1時間
 [**Launching Amazon EC2 Instances (日本語)**](https://explore.skillbuilder.aws/learn/courses/15432/launching-amazon-ec2-instances-ri-ben-yu)
+
+[**A Day in the Life of a Data Engineer (日本語)**](https://explore.skillbuilder.aws/learn/courses/16319/a-day-in-the-life-of-a-data-engineer-ri-ben-yu)
+
+[****]()
+[****]()
+[****]()
+
+
+EMR File System Client-side Encryption Using AWS KMS-managed Keys
+Working with Amazon Redshift
+Deploying Your First AWS Lambda Container
+Building and Deploying a Containerized Application with Amazon Elastic Kubernetes
+Create a CI/CD pipiline to deploy your app to AWS Fargate
+EC2 Instance Rightsizing
+Maintaining High Availability with Auto Scaling
+Building Highly Available Web Application
+Lab - Build a Product Recommendation Engine using Amazon Neptune
+Migratino RDS MySQL to Aurora with Read Replica
+Effortless Relational Scalability with Amazon Aurora Serverless v2
+Amazon DynamoDB CRUD Activities Using the AWS CLI and SDK
+Amazon DynamoDB Capacity Sizing
+Amazon DynamoDB - Monitoring
+Amazon DynamoDB Scans, Queries, and Indexes
+Amazon DynamoDB Streams and TTL
+Building with Amazon Aurora Databases
+Building with Amazon DocumentDB Databases
+Building with Amazon Redshift Clusters
+Building with Amazon RDS Databases
+Building with Amazon DynamoDB Tables
+Automating AWS Services with Scripting and the AWS CLI
+.NET Workloads on AWS Lambda
+Stock Replenishment App
+AWS Federated Authentication with AD FS
+Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
+Lauching and Managing a Web Application with AWS CloudFormation
+Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
+Media Services: Use AWS AI services to automate captioning & subtitling
+Migrating Web Application to Cloud using AWS Elastic Beastalk
+Migrate a Monolith Web Application to AWS Using Application Migration Service
+Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces
+AWS Network Firewall Fundamentals
+Configuring and Deploying Amazon VPC for a 3-tier Web App
+Caching Static Files with Amazon CloudFront
+Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
+Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
+Troubleshooting Website Reachability behind a Load Balancer
+Working with Amazon VPC Network Access Analyzer
+Working with Amazon CloudFront for Dynamic Content Acceleration
+Auditing Your Security with AWS Trusted Advisor
+Filtering and blocking web incursions with AWS WAF
+My Bucket, My Rules
+Securing the Endpoing
+Controlling the Network
+Scale Your Security Vulnerability Testing with Amazon Inspector
+Lab - Troubleshooting - IAM Access Issues
+Secure Your Account During an Active Event
+Zero Trust Architecture for Service-To-Service Workloads
+Managing Access at Scale with Amazon S3 Access Points
+Managing Access to Amazon S3 Resources with Amazon VPC Endpoints
+Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
+Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
+Build a Serverless Text-to-Speech Application with Amazon Polly
+Update Security Groups Automatically Using AWS Lambda
+Troubleshooting API Gateway with Lambda Proxy Integration
