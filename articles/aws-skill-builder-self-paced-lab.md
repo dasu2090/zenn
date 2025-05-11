@@ -21,28 +21,28 @@ Systems Manager → フリートマネージャー → リモートデスクト�
 
 [**Lab - Building a Serverless API (日本語)**](https://explore.skillbuilder.aws/learn/courses/21696/lab-building-a-serverless-api-ri-ben-yu)
 AWS SAMを使用してサーバーレスアプリケーションをデプロイします。AWS LambdaからAmazon S3 オブジェクトのコンテンツを読み取る関数を実装するプロセスを学習します。
-tag: AWS Cloud9, Amazon S3, AWS CloudFormation
+$\textcolor{green}{tag}$: AWS Cloud9, Amazon S3, AWS CloudFormation
 
 
 [**Using AWS CloudFormation for Automation (日本語)**](https://explore.skillbuilder.aws/learn/courses/21789/lab-using-aws-cloudformation-for-automation-ri-ben-yu)
 CloudFormation テンプレートを確認することから始め、Amazon EC2インスタンスでnginxが実行されていることを確認します。AWS CLIを使ってEC2インスタンスを起動するCloudFormationスタックを作成します。ユーザーデータでnginxをインストールし、ブラウザでnginxの動作を確認することで、CloudFormationによる自動化を学習します。
-tag: AWS CloudFormation, Amazon Elastic Compute Cloud (EC2), 
+$\textcolor{green}{tag}$: AWS CloudFormation, Amazon Elastic Compute Cloud (EC2), 
 AWS Command Line Interface (CLI)
 
 
 [**Integrating Amazon Simple Queue Service (Amazon SQS) (日本語)**](https://explore.skillbuilder.aws/learn/courses/21371/lab-integrating-amazon-simple-queue-service-amazon-sqs-ri-ben-yu)
 2つのPythonスクリプト（受信と送信）を用いてAmazon SQSの基本的な操作を体験します。コンソールとAWS CLIでSQSキューを確認し、受信スクリプトを実行してメッセージをリッスン、送信スクリプトのメッセージをキューに送信する手順を学びます。
-tag: Amazon Simple Queue Service (SQS), AWS Cloud9, AWS Command Line Interface (CLI)
+$\textcolor{green}{tag}$: Amazon Simple Queue Service (SQS), AWS Cloud9, AWS Command Line Interface (CLI)
 
 
 [**Walkthrough of the AWS Well-Architected Tool (日本語)**](https://explore.skillbuilder.aws/learn/courses/16491/walkthrough-of-the-aws-well-architected-tool-ri-ben-yu)
 AWS Well-Architected Toolを用いてアプリケーションアーキテクチャを評価する手順を学習します。ワークロードの作成、レビューの実施、マイルストーンの保存、およびマイルストーンレポートの表示を通して、アーキテクチャの改善点とベストプラクティスを学びます。
-tag: AWS Well-Architected Tool
+$\textcolor{green}{tag}$: AWS Well-Architected Tool
 
 
 [**Lab - Create a Static Website with Amazon Simple Storage Service (Amazon S3) (日本語)**](https://explore.skillbuilder.aws/learn/courses/21878/lab-create-a-static-website-with-amazon-simple-storage-service-amazon-s3-ri-ben-yu)
 Amazon S3を使用して静的なウェブサイトを作成し、パブリックアクセスを許可するためのバケットポリシーを設定します。HTMLファイルを作成・アップロードし、ウェブサイトのエンドポイントを通じてアクセスをテストする手順を学びます。
-tag: Amazon Simple Storage Service (S3)
+$\textcolor{green}{tag}$: Amazon Simple Storage Service (S3)
 
 
 [**Lab - Integrating Amazon DynamoDB (日本語)**](https://explore.skillbuilder.aws/learn/courses/21336/lab-integrating-amazon-dynamodb-ri-ben-yu)
@@ -53,37 +53,44 @@ tag: Amazon Simple Storage Service (S3)
 
 [**Lab - AWS CodeBuild Hello World (日本語)**](https://explore.skillbuilder.aws/learn/courses/21814/lab-aws-codebuild-hello-world-ri-ben-yu)
 AWS CodeBuildの主要機能と特徴を理解し、CodeCommitリポジトリと連携したJavaアプリケーションの自動ビルドプロセスを体験します。buildspec.ymlの確認、CodeBuildプロジェクトの実行、生成されたJARファイルのローカル実行を通して、CI/CDパイプラインの基礎を学びます。
-tag: AWS CodeBuild, AWS CodeCommit, Amazon Simple Storage Service (S3), AWS Cloud9
+$\textcolor{green}{tag}$: AWS CodeBuild, AWS CodeCommit, Amazon Simple Storage Service (S3), AWS Cloud9
 
 
 ### 45分
 
 [**Introduction to Amazon EC2 Auto Scaling (日本語)**](https://explore.skillbuilder.aws/learn/courses/7475/introduction-to-amazon-ec2-auto-scaling-ri-ben-yu)
 Amazon EC2 Auto Scalingの概要の確認と、起動テンプレート作成、Auto Scalingグループ作成、起動確認、Auto Scalingの基本を習得します。
+$\textcolor{green}{tag}$: Amazon EC2
 
 
 [**Introduction to Amazon DynamoDB (日本語)**](https://explore.skillbuilder.aws/learn/courses/7493/introduction-to-amazon-dynamodb-ri-ben-yu)
-Amazon DynamoDBの基本的な操作（テーブル作成、データ入力、クエリ実行、テーブル削除）を、音楽ライブラリを例に学習します。
+Amazon DynamoDBの基本的な操作を学びます。テーブルの作成、データの追加と変更、プライマリキーを用いた効率的なクエリ、そしてテーブルの削除といった一連の流れを体験します。
+$\textcolor{green}{tag}$: Amazon DynamoDB
 
 
 [**Introduction to AWS CloudFormation (日本語)**](https://explore.skillbuilder.aws/learn/courses/7756/introduction-to-aws-cloudformation-ri-ben-yu)
 AWS CloudFormationを用いて定義済みのテンプレートからWordPressとMySQLが動作するEC2インスタンスを含むスタックを作成し、パラメータ、リソース、出力を確認します。
+$\textcolor{green}{tag}$: AWS CloudFormation
 
 
 [**Introduction to Amazon Virtual Private Cloud (VPC) (日本語)**](https://explore.skillbuilder.aws/learn/courses/7495/introduction-to-amazon-virtual-private-cloud-vpc-ri-ben-yu)
 Amazon VPCウィザードを用いてVPCを作成し、インターネットゲートウェイのアタッチ、サブネットの追加、ルーティング設定を通して、VPCの基本的なコンポーネント（パブリック/プライベートサブネット、ルートテーブル、NATゲートウェイ、ネットワークACL）について学習します。
+$\textcolor{green}{tag}$: Amazon Virtual Private Cloud (VPC)
 
 
 [**Introduction to AWS Identity and Access Management (IAM) (日本語)**](https://explore.skillbuilder.aws/learn/courses/7487/introduction-to-aws-identity-and-access-management-iam-ri-ben-yu)
 AWS IAMの基本的な概念と操作を学習します。事前に作成されたユーザー、グループ、ポリシーを確認し、シナリオに基づいてユーザーをグループに追加し、IAMサインインURLを使用して各ユーザーのアクセス許可をテストします。
+$\textcolor{green}{tag}$: AWS Identity and Access Management (IAM)
 
 
 [**Using Open Data with Amazon S3 (日本語)**](https://explore.skillbuilder.aws/learn/courses/8591/using-open-data-with-amazon-s3-ri-ben-yu)
 Amazon S3にデータをアップロードし、バケットポリシーとCORS設定でアクセス許可を設定、静的ウェブサイトホスティング機能で公開します。JavaScriptを用いてS3バケットのコンテンツをウェブページに動的に表示する方法を学習します。
+tag: Amazon S3
 
 
 [**Introduction to AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7502/introduction-to-aws-lambda-ri-ben-yu)
 イベント駆動型のAWS Lambdaの基本を学び、S3への画像アップロードをトリガーに画像のサムネイルを自動生成するLambda関数を作成します。S3をイベントソースとして設定し、CloudWatch LogsでLambda関数の実行状況をモニタリングします。
+tag: AWS Lambda, Amazon CloudWatch, Amazon S3
 
 
 #### メンテナンス中
@@ -96,11 +103,8 @@ Amazon S3にデータをアップロードし、バケットポリシーとCORS�
 ### 1時間
 
 [**Analyze Big Data with Hadoop (日本語)**](https://explore.skillbuilder.aws/learn/courses/6936/analyze-big-data-with-hadoop-ri-ben-yu) 
-:::message
-「このラボは 日本語 ではまだ利用できません。」と表示されて英語表記となっています。
-:::
+※「このラボは 日本語 ではまだ利用できません。」と表示されて英語表記となっています。
 Amazon EMRを使用してHadoopクラスターを起動し、HiveQLスクリプトでログデータを処理して分析する方法を学びます。処理結果はAmazon S3に保存され、ダウンロードして確認したり、Hive CLIから直接クエリを実行して表示を確認します。
-
 :::details 注意点
 「**EMR クラスター CLI に接続し、HiveQL を使用してクエリを実行する**」項目において、**ターミナルのロケール（文字コード）が ASCII に設定されています。**
 ```'ascii' codec can't encode characters …```
@@ -112,19 +116,23 @@ export LC_ALL=en_US.UTF-8
 :::
 
 [**Introduction to Amazon EC2 (日本語)**](https://explore.skillbuilder.aws/learn/courses/7506/introduction-to-amazon-ec2-ri-ben-yu)
+Amazon EC2インスタンスの起動、サイズ変更、管理、モニタリングの概要を学びます。インスタンスの終了保護、セキュリティグループの設定、インスタンスタイプの変更、EBSボリュームの調整を通じてEC2インスタンスの基本的な操作を体験します。
+$\textcolor{green}{tag}$: Amazon Elastic Compute Cloud (EC2)
 
 
 [**Introduction to Amazon Aurora (日本語)**](https://explore.skillbuilder.aws/learn/courses/9032/introduction-to-amazon-aurora-ri-ben-yu)
+MySQL互換の高性能フルマネージドデータベースエンジンであるAmazon Auroraの学習です。Auroraインスタンスの作成と接続、既存のMySQLインスタンスとの比較、データロード、そしてクエリ実行を通してAuroraの基本的な使用方法を学びます。
+tag: Amazon Aurora, Amazon RDS for MySQL, Amazon EC2, AWS Systems Manager
 
 
 [**Introduction to Amazon ElastiCache (日本語)**](https://explore.skillbuilder.aws/learn/courses/8597/introduction-to-amazon-elasticache-ri-ben-yu)
+ウェブアプリケーションのパフォーマンス向上に役立つインメモリキャッシュサービスであるAmazon ElastiCacheについて学びます。Redisエンジンを用いたElastiCacheクラスターの作成、EC2インスタンスからの接続とコマンド実行、そしてリソースのクリーンアップを行います。
+tag: Amazon ElastiCache (Redis), Amazon EC2
 
-src/redis-cli -c -h ENDPOINT --tls -p 6379
-[master.mycache.***********.cache.amazonaws.com:6379](http://master.mycache.mjyqpg.usw2.cache.amazonaws.com:6379/)
-
-プライマリエンドポイントの”[:6379](http://master.mycache.mjyqpg.usw2.cache.amazonaws.com:6379/)”を消さずにコマンド実行してたから接続できなかった
 
 [**Introduction to Amazon Relational Database Service (RDS) (Linux) (日本語)**](https://explore.skillbuilder.aws/learn/courses/8593/introduction-to-amazon-relational-database-service-rds-linux-ri-ben-yu)
+Amazon RDSによるMySQLインスタンスの作成、Session Managerによる接続、テーブル作成、データ操作、そしてクエリ実行の一連の流れを体験します。
+tag: Amazon Relational Database Service (RDS), AWS Systems Manager (Session Manager), Amazon EC2
 
 
 [**Introduction to Amazon Relational Database Service (RDS) (Windows) (日本語)**](https://explore.skillbuilder.aws/learn/courses/7491/introduction-to-amazon-relational-database-service-rds-windows-ri-ben-yu)
@@ -229,17 +237,23 @@ SSL証明書の信頼性が原因
 
 [**A Day in the Life of a Data Engineer (日本語)**](https://explore.skillbuilder.aws/learn/courses/16319/a-day-in-the-life-of-a-data-engineer-ri-ben-yu)
 
-[****]()
+[**Working with Amazon Redshift (日本語)**](https://explore.skillbuilder.aws/learn/courses/8580/working-with-amazon-redshift-ri-ben-yu)
+
+[**Deploying Your First AWS Lambda Container (日本語)**](https://explore.skillbuilder.aws/learn/courses/13299/deploying-your-first-aws-lambda-container-ri-ben-yu)
+
+[**EC2 Instance Rightsizing (日本語)**](https://explore.skillbuilder.aws/learn/courses/18130/ec2-instance-rightsizing-ri-ben-yu)
+EC2インスタンスの適切なサイジングによるコスト最適化を体験します。CloudWatchエージェントの導入、負荷シミュレーション、メトリクス分析に基づき、インスタンスタイプやサイズを変更し、将来的なリソース制約を監視するためのCloudWatchアラームを設定します。
+$\textcolor{green}{tag}$: Amazon Elastic Compute Cloud (EC2), Amazon CloudWatch, AWS Systems Manager, AWS Pricing Calculator
+
+
+
 [****]()
 [****]()
 
 
 EMR File System Client-side Encryption Using AWS KMS-managed Keys
-Working with Amazon Redshift
-Deploying Your First AWS Lambda Container
 Building and Deploying a Containerized Application with Amazon Elastic Kubernetes
 Create a CI/CD pipiline to deploy your app to AWS Fargate
-EC2 Instance Rightsizing
 Maintaining High Availability with Auto Scaling
 Building Highly Available Web Application
 Lab - Build a Product Recommendation Engine using Amazon Neptune
