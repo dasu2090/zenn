@@ -60,7 +60,7 @@ $\textcolor{green}{tag}$: AWS CodeBuild, AWS CodeCommit, Amazon Simple Storage S
 
 [**Introduction to Amazon EC2 Auto Scaling (日本語)**](https://explore.skillbuilder.aws/learn/courses/7475/introduction-to-amazon-ec2-auto-scaling-ri-ben-yu)
 Amazon EC2 Auto Scalingの概要の確認と、起動テンプレート作成、Auto Scalingグループ作成、起動確認、Auto Scalingの基本を習得します。
-$\textcolor{green}{tag}$: Amazon EC2
+$\textcolor{green}{tag}$: Amazon EC2 Auto Scaling
 
 
 [**Introduction to Amazon DynamoDB (日本語)**](https://explore.skillbuilder.aws/learn/courses/7493/introduction-to-amazon-dynamodb-ri-ben-yu)
@@ -246,7 +246,11 @@ EC2インスタンスの適切なサイジングによるコスト最適化を�
 $\textcolor{green}{tag}$: Amazon Elastic Compute Cloud (EC2), Amazon CloudWatch, AWS Systems Manager, AWS Pricing Calculator
 
 
+[**Maintaining High Availability with Auto Scaling (日本語)**](https://explore.skillbuilder.aws/learn/courses/6925/maintaining-high-availability-with-auto-scaling-ri-ben-yu)
+Auto Scalingを活用して高可用性を維持する方法を学びます。起動テンプレートとAuto Scalingグループを作成し、負荷に応じてEC2インスタンスが自動的にスケールアップ・ダウンするポリシーと通知を設定し、その動作を検証します。
+tag: Amazon EC2 Auto Scaling, Amazon EC2, Elastic Load Balancing (ELB), Amazon CloudWatch, Amazon Simple Notification Service (SNS), AWS Command Line Interface (CLI)
 
+[****]()
 [****]()
 [****]()
 
@@ -254,7 +258,6 @@ $\textcolor{green}{tag}$: Amazon Elastic Compute Cloud (EC2), Amazon CloudWatch,
 EMR File System Client-side Encryption Using AWS KMS-managed Keys
 Building and Deploying a Containerized Application with Amazon Elastic Kubernetes
 Create a CI/CD pipiline to deploy your app to AWS Fargate
-Maintaining High Availability with Auto Scaling
 Building Highly Available Web Application
 Lab - Build a Product Recommendation Engine using Amazon Neptune
 Migratino RDS MySQL to Aurora with Read Replica
