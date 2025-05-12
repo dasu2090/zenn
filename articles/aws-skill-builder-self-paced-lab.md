@@ -6,6 +6,7 @@ topics: ["aws"]
 published: false
 ---
 
+
 インスタンスクラス
 IAM拒否
 db.t3.medium
@@ -14,6 +15,8 @@ RDPのURLでアクセスできない
 Systems Manager → フリートマネージャー → リモートデスクトップ
 ![](https://storage.googleapis.com/zenn-user-upload/d9602df03776-20250501.png =600x)
 
+アクセス権がない
+![](https://repost.aws/questions/QU4Eixq-mdTbKI7cKWNJdf4g/aws-skill-builder-self-paced-lab-content-not-accessible)
 
 ## 基礎
 
@@ -60,7 +63,7 @@ $\textcolor{green}{tag}$: AWS CodeBuild, AWS CodeCommit, Amazon Simple Storage S
 
 [**Introduction to Amazon EC2 Auto Scaling (日本語)**](https://explore.skillbuilder.aws/learn/courses/7475/introduction-to-amazon-ec2-auto-scaling-ri-ben-yu)
 Amazon EC2 Auto Scalingの概要の確認と、起動テンプレート作成、Auto Scalingグループ作成、起動確認、Auto Scalingの基本を習得します。
-$\textcolor{green}{tag}$: Amazon EC2 Auto Scaling
+$\textcolor{green}{tag}$: Amazon EC2
 
 
 [**Introduction to Amazon DynamoDB (日本語)**](https://explore.skillbuilder.aws/learn/courses/7493/introduction-to-amazon-dynamodb-ri-ben-yu)
@@ -246,19 +249,31 @@ EC2インスタンスの適切なサイジングによるコスト最適化を�
 $\textcolor{green}{tag}$: Amazon Elastic Compute Cloud (EC2), Amazon CloudWatch, AWS Systems Manager, AWS Pricing Calculator
 
 
+[**EMR File System Client-side Encryption Using AWS KMS-managed Keys (日本語)**](https://explore.skillbuilder.aws/learn/courses/6935/emr-file-system-client-side-encryption-using-aws-kms-managed-keys-ri-ben-yu)
+EMR File System(EMRFS)を使用してAmazon S3に保存されるデータに対して、AWS KMSで管理されたキーによるクライアント側の保管時の暗号化を有効にする方法を学びます。EMRクラスターの作成、セキュリティ設定、S3への暗号化されたデータの書き込みと読み取り、そして直接S3からのデータの確認を行います。
+tag: Amazon EMR, AWS Key Management Service (KMS), Amazon S3, Amazon EC2
+
+
 [**Maintaining High Availability with Auto Scaling (日本語)**](https://explore.skillbuilder.aws/learn/courses/6925/maintaining-high-availability-with-auto-scaling-ri-ben-yu)
 Auto Scalingを活用して高可用性を維持する方法を学びます。起動テンプレートとAuto Scalingグループを作成し、負荷に応じてEC2インスタンスが自動的にスケールアップ・ダウンするポリシーと通知を設定し、その動作を検証します。
 tag: Amazon EC2 Auto Scaling, Amazon EC2, Elastic Load Balancing (ELB), Amazon CloudWatch, Amazon Simple Notification Service (SNS), AWS Command Line Interface (CLI)
 
-[****]()
+
+[**Building Highly Available Web Application (日本語)**](https://explore.skillbuilder.aws/learn/courses/16212/building-highly-available-web-application-ri-ben-yu)
+CloudFormationを用いて複数のアベイラビリティーゾーンに分散した高可用性ウェブアプリケーションを構築します。VPC、RDS、ElastiCache、EFS、Auto Scaling、ロードバランサーなどのAWSサービスを連携させ、耐障害性とスケーラビリティを備えたWordPress環境をデプロイし、Fault Injection Simulatorによるカオステストを通じてその可用性を検証します。
+tag: AWS CloudFormation, Amazon Virtual Private Cloud (VPC), Amazon Relational Database Service (RDS), Amazon Aurora, Amazon ElastiCache for Memcached, Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Auto Scaling, Application Load Balancer (ALB), AWS Fault Injection Simulator (FIS)
+
+
+
 [****]()
 [****]()
 
 
-EMR File System Client-side Encryption Using AWS KMS-managed Keys
-Building and Deploying a Containerized Application with Amazon Elastic Kubernetes
-Create a CI/CD pipiline to deploy your app to AWS Fargate
-Building Highly Available Web Application
+[**Building and Deploying a Containerized Application with Amazon Elastic Kubernetes Service (日本語)**](https://explore.skillbuilder.aws/learn/courses/15348/building-and-deploying-a-containerized-application-with-amazon-elastic-kubernetes-service-ri-ben-yu)
+[**Create a CI/CD pipeline to deploy your app to AWS Fargate (日本語)**](https://explore.skillbuilder.aws/learn/courses/15314/create-a-cicd-pipeline-to-deploy-your-app-to-aws-fargate-ri-ben-yu)
+アクセス権がない
+
+
 Lab - Build a Product Recommendation Engine using Amazon Neptune
 Migratino RDS MySQL to Aurora with Read Replica
 Effortless Relational Scalability with Amazon Aurora Serverless v2
