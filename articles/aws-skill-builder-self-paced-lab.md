@@ -265,6 +265,12 @@ tag: AWS CloudFormation, Amazon Virtual Private Cloud (VPC), Amazon Relational D
 
 
 
+[**Migrating RDS MySQL to Aurora with Read Replica (日本語)**](https://explore.skillbuilder.aws/learn/courses/16645/migrating-rds-mysql-to-aurora-with-read-replica-ri-ben-yu)
+Amazon RDS MySQLから高可用性なAmazon Aurora MySQLクラスターへの移行手順を学習します。Auroraリードレプリカの作成と昇格、フェイルオーバー優先度の設定、そして手動フェイルオーバーの実行を通して、データベースの移行と耐障害性を高める方法を習得します。
+tag: Amazon Relational Database Service (RDS), Amazon Aurora, Amazon Elastic Compute Cloud (EC2)
+
+
+[****]()
 [****]()
 [****]()
 
@@ -275,7 +281,6 @@ tag: AWS CloudFormation, Amazon Virtual Private Cloud (VPC), Amazon Relational D
 
 
 Lab - Build a Product Recommendation Engine using Amazon Neptune
-Migratino RDS MySQL to Aurora with Read Replica
 Effortless Relational Scalability with Amazon Aurora Serverless v2
 Amazon DynamoDB CRUD Activities Using the AWS CLI and SDK
 Amazon DynamoDB Capacity Sizing
