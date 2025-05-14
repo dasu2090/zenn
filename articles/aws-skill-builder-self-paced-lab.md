@@ -270,6 +270,17 @@ Amazon RDS MySQLから高可用性なAmazon Aurora MySQLクラスターへの移
 tag: Amazon Relational Database Service (RDS), Amazon Aurora, Amazon Elastic Compute Cloud (EC2)
 
 
+[**Lab - Build a Product Recommendation Engine using Amazon Neptune (日本語)**](https://explore.skillbuilder.aws/learn/courses/22036/lab-build-a-product-recommendation-engine-using-amazon-neptune-ri-ben-yu)
+リレーショナルデータベースの顧客、注文、商品などのデータをAmazon Neptuneのグラフ構造にモデル化し、商品レコメンデーションエンジンを構築します。顧客の購入履歴、世帯情報、商品の評価といった複数のデータソースを統合し、より関連性の高い推奨をリアルタイムで提供する方法を学びます。
+tag: Amazon Neptune, Amazon SageMaker
+
+
+[**Effortless Relational Scalability with Amazon Aurora Serverless v2 (日本語)**](https://explore.skillbuilder.aws/learn/courses/16225/effortless-relational-scalability-with-amazon-aurora-serverless-v2-ri-ben-yu)
+Amazon Aurora Serverless v2 for PostgreSQLを設定し、pgbenchによる負荷テストを通じてワークロードの変化に応じた自動スケーリングを検証します。CloudWatchダッシュボードとPerformance Insightsを用いてデータベースのパフォーマンスとスケーリングの様子をモニタリングします。
+tag: Amazon Aurora, Amazon CloudWatch, Amazon RDS Performance Insights, AWS Cloud9, AWS CloudFormation
+
+
+
 [****]()
 [****]()
 [****]()
@@ -280,8 +291,7 @@ tag: Amazon Relational Database Service (RDS), Amazon Aurora, Amazon Elastic Com
 アクセス権がない
 
 
-Lab - Build a Product Recommendation Engine using Amazon Neptune
-Effortless Relational Scalability with Amazon Aurora Serverless v2
+
 Amazon DynamoDB CRUD Activities Using the AWS CLI and SDK
 Amazon DynamoDB Capacity Sizing
 Amazon DynamoDB - Monitoring
