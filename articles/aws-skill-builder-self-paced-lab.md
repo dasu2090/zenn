@@ -281,7 +281,12 @@ tag: Amazon Aurora, Amazon CloudWatch, Amazon RDS Performance Insights, AWS Clou
 
 
 
-[****]()
+[**Amazon DynamoDB CRUD Activities Using the AWS CLI and SDK (日本語)**](https://explore.skillbuilder.aws/learn/courses/8617/amazon-dynamodb-crud-activities-using-the-aws-cli-and-sdk-ri-ben-yu)
+AWS CLIとAWS SDK for Python (Boto3) を使用してAmazon DynamoDBテーブルを作成、データのCRUD操作（作成、読み取り、更新、削除）を実行する方法を学習します。DynamoDBの基本的な操作と、CLIとSDKそれぞれの使用方法を習得します。
+tag: Amazon DynamoDB, AWS Command Line Interface (CLI), AWS SDK for Python (Boto3), AWS Cloud9
+
+
+
 [****]()
 [****]()
 
@@ -292,7 +297,6 @@ tag: Amazon Aurora, Amazon CloudWatch, Amazon RDS Performance Insights, AWS Clou
 
 
 
-Amazon DynamoDB CRUD Activities Using the AWS CLI and SDK
 Amazon DynamoDB Capacity Sizing
 Amazon DynamoDB - Monitoring
 Amazon DynamoDB Scans, Queries, and Indexes
