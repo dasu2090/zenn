@@ -286,7 +286,12 @@ AWS CLIとAWS SDK for Python (Boto3) を使用してAmazon DynamoDBテーブル�
 tag: Amazon DynamoDB, AWS Command Line Interface (CLI), AWS SDK for Python (Boto3), AWS Cloud9
 
 
+[**Amazon DynamoDB Capacity Sizing (日本語)**](https://explore.skillbuilder.aws/learn/courses/8621/amazon-dynamodb-capacity-sizing-ri-ben-yu)
+Amazon DynamoDBのプロビジョンドキャパシティーモードにおけるスループット性能の管理、CloudWatchによるパフォーマンス監視、Auto Scalingによる動的なキャパシティー調整、そしてオンデマンドキャパシティーモードへの移行について学習します。AWS SDK for Python (Boto3) を用いて、テーブルのキャパシティー設定を変更し、パフォーマンスへの影響を検証します。
+tag: Amazon DynamoDB, Amazon CloudWatch, AWS SDK for Python (Boto3), AWS Cloud9
 
+
+[****]()
 [****]()
 [****]()
 
@@ -297,7 +302,6 @@ tag: Amazon DynamoDB, AWS Command Line Interface (CLI), AWS SDK for Python (Boto
 
 
 
-Amazon DynamoDB Capacity Sizing
 Amazon DynamoDB - Monitoring
 Amazon DynamoDB Scans, Queries, and Indexes
 Amazon DynamoDB Streams and TTL
