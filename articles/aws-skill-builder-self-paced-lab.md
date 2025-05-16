@@ -291,7 +291,11 @@ Amazon DynamoDBのプロビジョンドキャパシティーモードにおけ�
 tag: Amazon DynamoDB, Amazon CloudWatch, AWS SDK for Python (Boto3), AWS Cloud9
 
 
-[****]()
+[**Amazon DynamoDB - Monitoring (日本語)**](https://explore.skillbuilder.aws/learn/courses/8625/amazon-dynamodb-monitoring-ri-ben-yu)
+Amazon DynamoDBのモニタリングについて学習します。CloudWatchアラームの作成と管理、CloudWatch Contributor Insightsの活用、運用データ可視化のためのCloudWatchダッシュボード構築、そしてパフォーマンス問題のトラブルシューティングに役立つAWS X-Rayの使用方法を習得します。
+tag: Amazon DynamoDB, Amazon CloudWatch, AWS X-Ray, AWS Lambda
+
+
 [****]()
 [****]()
 
@@ -302,7 +306,6 @@ tag: Amazon DynamoDB, Amazon CloudWatch, AWS SDK for Python (Boto3), AWS Cloud9
 
 
 
-Amazon DynamoDB - Monitoring
 Amazon DynamoDB Scans, Queries, and Indexes
 Amazon DynamoDB Streams and TTL
 Building with Amazon Aurora Databases
