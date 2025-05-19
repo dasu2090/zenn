@@ -296,6 +296,23 @@ Amazon DynamoDBのモニタリングについて学習します。CloudWatchア�
 tag: Amazon DynamoDB, Amazon CloudWatch, AWS X-Ray, AWS Lambda
 
 
+[**Amazon DynamoDB Scans, Queries, and Indexes (日本語)**](https://explore.skillbuilder.aws/learn/courses/8619/amazon-dynamodb-scans-queries-and-indexes-ri-ben-yu)
+Amazon DynamoDBにおけるデータの検索方法（スキャンとクエリ）、効率的なデータ取得のためのローカルセカンダリインデックス（LSI）とグローバルセカンダリインデックス（GSI）の作成と利用について学習します。Python用AWS SDK (Boto3) を使用して、これらの操作を実行し、パフォーマンスの違いを比較します。
+tag: Amazon DynamoDB, AWS Cloud9, AWS SDK for Python (Boto3)
+
+
+[**Amazon DynamoDB Streams and TTL (日本語)**](https://explore.skillbuilder.aws/learn/courses/8623/amazon-dynamodb-streams-and-ttl-ri-ben-yu)
+Amazon DynamoDB StreamsとTTL（Time To Live）を活用し、データベースの変更をトリガーにしたイベント通知や、有効期限切れデータの自動アーカイブを行う方法を学習します。AWS CLI、AWS Lambda、Amazon SNS、Amazon S3などのサービスを連携させ、イベント駆動型のワークフローを構築します。
+tag: Amazon DynamoDB, AWS Lambda, Amazon SNS, Amazon S3, AWS Cloud9, AWS CLI
+
+
+
+[**My Bucket, My Rules (日本語)**](https://explore.skillbuilder.aws/learn/courses/15735/my-bucket-my-rules-ri-ben-yu)
+Amazon S3バケットのセキュリティを強化するためのバケットポリシー設定について学習します。HTTPS接続の強制、VPCエンドポイント経由のアクセス制限、特定の暗号化オプションとKMSキーによるオブジェクトアップロードの適用方法をAWS CLIを用いて実践します。
+tag: Amazon S3, AWS CLI
+
+
+[****]()
 [****]()
 [****]()
 
@@ -306,8 +323,6 @@ tag: Amazon DynamoDB, Amazon CloudWatch, AWS X-Ray, AWS Lambda
 
 
 
-Amazon DynamoDB Scans, Queries, and Indexes
-Amazon DynamoDB Streams and TTL
 Building with Amazon Aurora Databases
 Building with Amazon DocumentDB Databases
 Building with Amazon Redshift Clusters
@@ -334,7 +349,6 @@ Working with Amazon VPC Network Access Analyzer
 Working with Amazon CloudFront for Dynamic Content Acceleration
 Auditing Your Security with AWS Trusted Advisor
 Filtering and blocking web incursions with AWS WAF
-My Bucket, My Rules
 Securing the Endpoing
 Controlling the Network
 Scale Your Security Vulnerability Testing with Amazon Inspector
