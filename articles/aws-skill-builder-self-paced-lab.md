@@ -306,16 +306,29 @@ Amazon DynamoDB StreamsとTTL（Time To Live）を活用し、データベース
 tag: Amazon DynamoDB, AWS Lambda, Amazon SNS, Amazon S3, AWS Cloud9, AWS CLI
 
 
-
 [**My Bucket, My Rules (日本語)**](https://explore.skillbuilder.aws/learn/courses/15735/my-bucket-my-rules-ri-ben-yu)
 Amazon S3バケットのセキュリティを強化するためのバケットポリシー設定について学習します。HTTPS接続の強制、VPCエンドポイント経由のアクセス制限、特定の暗号化オプションとKMSキーによるオブジェクトアップロードの適用方法をAWS CLIを用いて実践します。
 tag: Amazon S3, AWS CLI
 
 
+[**Automating AWS Services with Scripting and the AWS CLI (日本語)**](https://explore.skillbuilder.aws/learn/courses/10975/automating-aws-services-with-scripting-and-the-aws-cli-ri-ben-yu)
+AWSマネジメントコンソール、AWS CLI、AWS SDK (Python) を使用してAWSサービスを操作し、EC2インスタンスの管理、S3バケットへのファイル操作、EBSスナップショットの自動化、CloudWatchカスタムメトリクスの送信といった自動化について学びます。また、AWS Systems Manager Session ManagerによるEC2インスタンスへの安全な接続方法と、IAMロールを利用したセキュリティ認証情報管理についても習得します。
+tag: AWS Systems Manager (Session Manager), AWS CLI, AWS SDK for Python (Boto3), Amazon EC2, Amazon S3, Amazon EBS, Amazon CloudWatch
+
+
+
 [****]()
 [****]()
 [****]()
 
+
+
+[**Stock Replenishment App (日本語)**](https://explore.skillbuilder.aws/learn/courses/17671/stock-replenishment-app-ri-ben-yu)
+"アクセス権がないようです"
+
+[**Controlling the Network (日本語)**](https://explore.skillbuilder.aws/learn/courses/13887/controlling-the-network-ri-ben-yu)
+問い合わせ中
+途中
 
 [**Building and Deploying a Containerized Application with Amazon Elastic Kubernetes Service (日本語)**](https://explore.skillbuilder.aws/learn/courses/15348/building-and-deploying-a-containerized-application-with-amazon-elastic-kubernetes-service-ri-ben-yu)
 [**Create a CI/CD pipeline to deploy your app to AWS Fargate (日本語)**](https://explore.skillbuilder.aws/learn/courses/15314/create-a-cicd-pipeline-to-deploy-your-app-to-aws-fargate-ri-ben-yu)
@@ -328,9 +341,7 @@ Building with Amazon DocumentDB Databases
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
 Building with Amazon DynamoDB Tables
-Automating AWS Services with Scripting and the AWS CLI
 .NET Workloads on AWS Lambda
-Stock Replenishment App
 AWS Federated Authentication with AD FS
 Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
 Lauching and Managing a Web Application with AWS CloudFormation
@@ -350,7 +361,6 @@ Working with Amazon CloudFront for Dynamic Content Acceleration
 Auditing Your Security with AWS Trusted Advisor
 Filtering and blocking web incursions with AWS WAF
 Securing the Endpoing
-Controlling the Network
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Lab - Troubleshooting - IAM Access Issues
 Secure Your Account During an Active Event
