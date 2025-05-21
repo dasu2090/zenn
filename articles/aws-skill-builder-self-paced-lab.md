@@ -317,6 +317,12 @@ tag: AWS Systems Manager (Session Manager), AWS CLI, AWS SDK for Python (Boto3),
 
 
 
+[**AWS Federated Authentication with AD FS (日本語)**](https://explore.skillbuilder.aws/learn/courses/10979/aws-federated-authentication-with-ad-fs-ri-ben-yu)
+AD FSとAWS IAMを連携させて、Active DirectoryユーザーがSAML認証を通じてAWSマネジメントコンソールへフェデレーションアクセスする方法を学びます。AD FSサーバーのセットアップ、Active Directoryグループとユーザーの作成、IAMでのIDプロバイダーと信頼ポリシーの設定を行い、アクセス制限が正しく機能するかを検証します。
+tag: AWS Identity and Access Management (IAM), Amazon Elastic Compute Cloud (EC2), AWS Systems Manager (Fleet Manager)
+
+
+[****]()
 [****]()
 [****]()
 [****]()
@@ -334,6 +340,8 @@ tag: AWS Systems Manager (Session Manager), AWS CLI, AWS SDK for Python (Boto3),
 [**Create a CI/CD pipeline to deploy your app to AWS Fargate (日本語)**](https://explore.skillbuilder.aws/learn/courses/15314/create-a-cicd-pipeline-to-deploy-your-app-to-aws-fargate-ri-ben-yu)
 アクセス権がない
 
+[**Secure Your Account During an Active Event (日本語)**](https://explore.skillbuilder.aws/learn/courses/15851/secure-your-account-during-an-active-event-ri-ben-yu)
+ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
 Building with Amazon Aurora Databases
@@ -342,7 +350,6 @@ Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
 Building with Amazon DynamoDB Tables
 .NET Workloads on AWS Lambda
-AWS Federated Authentication with AD FS
 Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
 Lauching and Managing a Web Application with AWS CloudFormation
 Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
@@ -363,7 +370,6 @@ Filtering and blocking web incursions with AWS WAF
 Securing the Endpoing
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Lab - Troubleshooting - IAM Access Issues
-Secure Your Account During an Active Event
 Zero Trust Architecture for Service-To-Service Workloads
 Managing Access at Scale with Amazon S3 Access Points
 Managing Access to Amazon S3 Resources with Amazon VPC Endpoints
