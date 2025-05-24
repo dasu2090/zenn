@@ -328,12 +328,18 @@ API GatewayとLambdaプロキシ統合で発生する「内部サーバーエラ
 tag: Amazon API Gateway, AWS Lambda, Amazon CloudWatch Logs, AWS Identity and Access Management (IAM)
 
 
-[****]()
-[****]()
-
 [**Launching and Managing a Web Application with AWS CloudFormation (日本語)**](https://explore.skillbuilder.aws/learn/courses/7740/launching-and-managing-a-web-application-with-aws-cloudformation-ri-ben-yu)
-まだやってない
+AWS CloudFormationを使ってウェブアプリケーションをプロビジョニングし管理する方法を学習します。S3バケットの作成と保持ポリシーの確認から始まり、EC2インスタンス上のシンプルなPHPウェブアプリケーションのデプロイ、既存スタックのリソース（インスタンスタイプ、タグ、IAMロール）の変更、そしてAuto ScalingとElastic Load Balancingによる高可用性構成への変換までを実践します。
+tag: AWS CloudFormation, Amazon S3, Amazon EC2, Auto Scaling, Elastic Load Balancing (ELB)
 
+
+
+
+
+[****]()
+[****]()
+[****]()
+[****]()
 
 [**Stock Replenishment App (日本語)**](https://explore.skillbuilder.aws/learn/courses/17671/stock-replenishment-app-ri-ben-yu)
 "アクセス権がないようです"
