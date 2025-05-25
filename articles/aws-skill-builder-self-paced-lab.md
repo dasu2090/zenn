@@ -322,12 +322,28 @@ AD FSとAWS IAMを連携させて、Active DirectoryユーザーがSAML認証を
 tag: AWS Identity and Access Management (IAM), Amazon Elastic Compute Cloud (EC2), AWS Systems Manager (Fleet Manager)
 
 
-[****]()
-[****]()
-[****]()
-[****]()
+
+[**Troubleshooting API Gateway with Lambda Proxy Integration (日本語)**](https://explore.skillbuilder.aws/learn/courses/17004/troubleshooting-api-gateway-with-lambda-proxy-integration-ri-ben-yu)
+API GatewayとLambdaプロキシ統合で発生する「内部サーバーエラー (500)」のトラブルシューティングを行い、「Hello from Lambda (200)」を返すように修正します。CloudWatch Logsでエラーを特定し、API GatewayのLambda関数統合設定とLambda関数のコード（Python）の修正を通じて問題を解決します。
+tag: Amazon API Gateway, AWS Lambda, Amazon CloudWatch Logs, AWS Identity and Access Management (IAM)
 
 
+[**Launching and Managing a Web Application with AWS CloudFormation (日本語)**](https://explore.skillbuilder.aws/learn/courses/7740/launching-and-managing-a-web-application-with-aws-cloudformation-ri-ben-yu)
+AWS CloudFormationを使ってウェブアプリケーションをプロビジョニングし管理する方法を学習します。S3バケットの作成と保持ポリシーの確認から始まり、EC2インスタンス上のシンプルなPHPウェブアプリケーションのデプロイ、既存スタックのリソース（インスタンスタイプ、タグ、IAMロール）の変更、そしてAuto ScalingとElastic Load Balancingによる高可用性構成への変換までを実践します。
+tag: AWS CloudFormation, Amazon S3, Amazon EC2, Auto Scaling, Elastic Load Balancing (ELB)
+
+
+[**.NET Workloads on AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/16237/net-workloads-on-aws-lambda-ri-ben-yu)
+AWS Cloud9と.NET CLIを使用して、.NETアプリケーションをAWS Lambdaにデプロイし、変更、呼び出す方法を学びます。サーバーレスASP.NETウェブアプリケーションの構築、Amazon S3バケットリストを取得するLambda関数の作成、そしてそれらの呼び出しを実践します。
+tag: AWS Cloud9, AWS Lambda, Amazon S3, AWS Serverless Application Model (SAM) 
+
+
+
+
+
+[****]()
+[****]()
+[****]()
 
 [**Stock Replenishment App (日本語)**](https://explore.skillbuilder.aws/learn/courses/17671/stock-replenishment-app-ri-ben-yu)
 "アクセス権がないようです"
@@ -349,9 +365,7 @@ Building with Amazon DocumentDB Databases
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
 Building with Amazon DynamoDB Tables
-.NET Workloads on AWS Lambda
 Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
-Lauching and Managing a Web Application with AWS CloudFormation
 Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
 Media Services: Use AWS AI services to automate captioning & subtitling
 Migrating Web Application to Cloud using AWS Elastic Beastalk
@@ -377,4 +391,3 @@ Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AW
 Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
 Build a Serverless Text-to-Speech Application with Amazon Polly
 Update Security Groups Automatically Using AWS Lambda
-Troubleshooting API Gateway with Lambda Proxy Integration
