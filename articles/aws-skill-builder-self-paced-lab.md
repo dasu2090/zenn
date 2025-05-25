@@ -339,6 +339,18 @@ tag: AWS Cloud9, AWS Lambda, Amazon S3, AWS Serverless Application Model (SAM)
 
 
 
+[**Building with Amazon Aurora Databases (日本語)**](https://explore.skillbuilder.aws/learn/courses/16587/building-with-amazon-aurora-databases-ri-ben-yu)
+Amazon Aurora (MySQL互換) のパラレルクエリ機能について学習し、大規模なデータセットに対するクエリパフォーマンスへの影響を理解します。異なるインスタンスサイズでのパラレルクエリの動作を比較し、その活用方法を実践します。
+tag: Amazon Aurora, Amazon Elastic Compute Cloud (EC2), Amazon CloudWatch
+
+
+
+[**AWS Network Firewall Fundamentals (日本語)**](https://explore.skillbuilder.aws/learn/courses/17056/aws-network-firewall-fundamentals-ri-ben-yu)
+AWS Network Firewall を使用して、組織の VPC におけるネットワークセキュリティのセットアップとデプロイを学びます。基本的なネットワークアーキテクチャから始め、トラフィック検査とフィルタリングのために Network Firewall を設定し、最終的に NAT ゲートウェイを含むより高度なアーキテクチャでルーティングをテストします。
+tag: AWS Network Firewall, Amazon EC2, AWS Systems Manager Session Manager, Amazon VPC
+
+
+
 
 
 [****]()
@@ -360,7 +372,6 @@ tag: AWS Cloud9, AWS Lambda, Amazon S3, AWS Serverless Application Model (SAM)
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Building with Amazon Aurora Databases
 Building with Amazon DocumentDB Databases
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
@@ -371,7 +382,6 @@ Media Services: Use AWS AI services to automate captioning & subtitling
 Migrating Web Application to Cloud using AWS Elastic Beastalk
 Migrate a Monolith Web Application to AWS Using Application Migration Service
 Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces
-AWS Network Firewall Fundamentals
 Configuring and Deploying Amazon VPC for a 3-tier Web App
 Caching Static Files with Amazon CloudFront
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
