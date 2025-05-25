@@ -333,10 +333,14 @@ AWS CloudFormationを使ってウェブアプリケーションをプロビジ�
 tag: AWS CloudFormation, Amazon S3, Amazon EC2, Auto Scaling, Elastic Load Balancing (ELB)
 
 
+[**.NET Workloads on AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/16237/net-workloads-on-aws-lambda-ri-ben-yu)
+AWS Cloud9と.NET CLIを使用して、.NETアプリケーションをAWS Lambdaにデプロイし、変更、呼び出す方法を学びます。サーバーレスASP.NETウェブアプリケーションの構築、Amazon S3バケットリストを取得するLambda関数の作成、そしてそれらの呼び出しを実践します。
+tag: AWS Cloud9, AWS Lambda, Amazon S3, AWS Serverless Application Model (SAM) 
 
 
 
-[****]()
+
+
 [****]()
 [****]()
 [****]()
@@ -361,7 +365,6 @@ Building with Amazon DocumentDB Databases
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
 Building with Amazon DynamoDB Tables
-.NET Workloads on AWS Lambda
 Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
 Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
 Media Services: Use AWS AI services to automate captioning & subtitling
