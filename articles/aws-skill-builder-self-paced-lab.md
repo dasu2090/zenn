@@ -355,9 +355,14 @@ AWS Lambdaを使用してAWS IPアドレスの範囲変更に自動的に対応�
 tag: AWS Lambda, Amazon VPC (セキュリティグループ), Amazon EC2
 
 
+[**Securing the Endpoint (日本語)**](https://explore.skillbuilder.aws/learn/courses/14298/securing-the-endpoint-ri-ben-yu)
+EC2インスタンス、保管中のデータ、転送中のデータを保護するためのセキュリティ対策を実践します。カスタムAMIの作成、Systems Managerによるパッチ適用、EBS暗号化、セキュリティグループルールの設定を通じて、エンドポイントセキュリティを強化します。
+tag: Amazon EC2, AWS Systems Manager (パッチマネージャー、セッションマネージャー), Amazon EBS, Amazon VPC
 
 
 
+[****]()
+[****]()
 [****]()
 [****]()
 
@@ -395,7 +400,6 @@ Working with Amazon VPC Network Access Analyzer
 Working with Amazon CloudFront for Dynamic Content Acceleration
 Auditing Your Security with AWS Trusted Advisor
 Filtering and blocking web incursions with AWS WAF
-Securing the Endpoing
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Lab - Troubleshooting - IAM Access Issues
 Zero Trust Architecture for Service-To-Service Workloads
