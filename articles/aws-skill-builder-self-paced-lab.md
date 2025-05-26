@@ -350,10 +350,14 @@ AWS Network Firewall を使用して、組織の VPC におけるネットワー
 tag: AWS Network Firewall, Amazon EC2, AWS Systems Manager Session Manager, Amazon VPC
 
 
+[**Update Security Groups Automatically Using AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7764/update-security-groups-automatically-using-aws-lambda-ri-ben-yu)
+AWS Lambdaを使用してAWS IPアドレスの範囲変更に自動的に対応し、Amazon VPCセキュリティグループを更新する方法を学びます。これにより、CloudFrontやAWS WAFからのトラフィックのみを許可することでウェブアプリケーションのセキュリティを強化します。
+tag: AWS Lambda, Amazon VPC (セキュリティグループ), Amazon EC2
 
 
 
-[****]()
+
+
 [****]()
 [****]()
 
@@ -400,4 +404,3 @@ Managing Access to Amazon S3 Resources with Amazon VPC Endpoints
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
 Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
 Build a Serverless Text-to-Speech Application with Amazon Polly
-Update Security Groups Automatically Using AWS Lambda
