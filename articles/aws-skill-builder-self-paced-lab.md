@@ -360,8 +360,13 @@ EC2インスタンス、保管中のデータ、転送中のデータを保護�
 tag: Amazon EC2, AWS Systems Manager (パッチマネージャー、セッションマネージャー), Amazon EBS, Amazon VPC
 
 
+[**Lab - Troubleshooting - IAM Access Issues (日本語)**](https://explore.skillbuilder.aws/learn/courses/18458/lab-troubleshooting-iam-access-issues-ri-ben-yu)
+IAMロールの引き受けに関する問題に焦点を当て、IAMユーザーのアイデンティティベースポリシーとIAMロールの信頼ポリシーを最小権限の原則に基づいて修正し、問題を解決する方法を学びます。
+tag: AWS Identity and Access Management (IAM), AWS Systems Manager (Session Manager)
 
-[****]()
+
+
+
 [****]()
 [****]()
 [****]()
@@ -401,7 +406,6 @@ Working with Amazon CloudFront for Dynamic Content Acceleration
 Auditing Your Security with AWS Trusted Advisor
 Filtering and blocking web incursions with AWS WAF
 Scale Your Security Vulnerability Testing with Amazon Inspector
-Lab - Troubleshooting - IAM Access Issues
 Zero Trust Architecture for Service-To-Service Workloads
 Managing Access at Scale with Amazon S3 Access Points
 Managing Access to Amazon S3 Resources with Amazon VPC Endpoints
