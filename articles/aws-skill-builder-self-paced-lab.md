@@ -339,8 +339,29 @@ tag: AWS Cloud9, AWS Lambda, Amazon S3, AWS Serverless Application Model (SAM)
 
 
 
+[**Building with Amazon Aurora Databases (日本語)**](https://explore.skillbuilder.aws/learn/courses/16587/building-with-amazon-aurora-databases-ri-ben-yu)
+Amazon Aurora (MySQL互換) のパラレルクエリ機能について学習し、大規模なデータセットに対するクエリパフォーマンスへの影響を理解します。異なるインスタンスサイズでのパラレルクエリの動作を比較し、その活用方法を実践します。
+tag: Amazon Aurora, Amazon Elastic Compute Cloud (EC2), Amazon CloudWatch
 
 
+
+[**AWS Network Firewall Fundamentals (日本語)**](https://explore.skillbuilder.aws/learn/courses/17056/aws-network-firewall-fundamentals-ri-ben-yu)
+AWS Network Firewall を使用して、組織の VPC におけるネットワークセキュリティのセットアップとデプロイを学びます。基本的なネットワークアーキテクチャから始め、トラフィック検査とフィルタリングのために Network Firewall を設定し、最終的に NAT ゲートウェイを含むより高度なアーキテクチャでルーティングをテストします。
+tag: AWS Network Firewall, Amazon EC2, AWS Systems Manager Session Manager, Amazon VPC
+
+
+[**Update Security Groups Automatically Using AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7764/update-security-groups-automatically-using-aws-lambda-ri-ben-yu)
+AWS Lambdaを使用してAWS IPアドレスの範囲変更に自動的に対応し、Amazon VPCセキュリティグループを更新する方法を学びます。これにより、CloudFrontやAWS WAFからのトラフィックのみを許可することでウェブアプリケーションのセキュリティを強化します。
+tag: AWS Lambda, Amazon VPC (セキュリティグループ), Amazon EC2
+
+
+[**Securing the Endpoint (日本語)**](https://explore.skillbuilder.aws/learn/courses/14298/securing-the-endpoint-ri-ben-yu)
+EC2インスタンス、保管中のデータ、転送中のデータを保護するためのセキュリティ対策を実践します。カスタムAMIの作成、Systems Managerによるパッチ適用、EBS暗号化、セキュリティグループルールの設定を通じて、エンドポイントセキュリティを強化します。
+tag: Amazon EC2, AWS Systems Manager (パッチマネージャー、セッションマネージャー), Amazon EBS, Amazon VPC
+
+
+
+[****]()
 [****]()
 [****]()
 [****]()
@@ -360,7 +381,6 @@ tag: AWS Cloud9, AWS Lambda, Amazon S3, AWS Serverless Application Model (SAM)
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Building with Amazon Aurora Databases
 Building with Amazon DocumentDB Databases
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
@@ -371,7 +391,6 @@ Media Services: Use AWS AI services to automate captioning & subtitling
 Migrating Web Application to Cloud using AWS Elastic Beastalk
 Migrate a Monolith Web Application to AWS Using Application Migration Service
 Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces
-AWS Network Firewall Fundamentals
 Configuring and Deploying Amazon VPC for a 3-tier Web App
 Caching Static Files with Amazon CloudFront
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
@@ -381,7 +400,6 @@ Working with Amazon VPC Network Access Analyzer
 Working with Amazon CloudFront for Dynamic Content Acceleration
 Auditing Your Security with AWS Trusted Advisor
 Filtering and blocking web incursions with AWS WAF
-Securing the Endpoing
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Lab - Troubleshooting - IAM Access Issues
 Zero Trust Architecture for Service-To-Service Workloads
@@ -390,4 +408,3 @@ Managing Access to Amazon S3 Resources with Amazon VPC Endpoints
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
 Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
 Build a Serverless Text-to-Speech Application with Amazon Polly
-Update Security Groups Automatically Using AWS Lambda
