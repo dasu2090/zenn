@@ -371,8 +371,11 @@ tag: Amazon VPC, Amazon S3, Amazon EC2, AWS Systems Manager (Session Manager)
 
 
 
+[**Working with Amazon VPC Network Access Analyzer (日本語)**](https://explore.skillbuilder.aws/learn/courses/16360/working-with-amazon-vpc-network-access-analyzer-ri-ben-yu)
+Amazon VPC Network Access Analyzerを使って、AWSネットワークのセキュリティ状態を評価・検証し、コンプライアンス要件に合致していることを実証します。インターネットゲートウェイからの受信トラフィック、VPCエンドポイントパス、プライベートサブネットのインターネットアクセス、VPCセグメンテーションなど、様々なネットワーク構成を分析します。
+tag: Amazon VPC(サブネット、ルートテーブル、ネットワークACL、セキュリティグループ、インターネットゲートウェイ、NATゲートウェイ、VPCピアリング接続、VPCエンドポイント), Amazon VPC Network Access Analyzer
 
-[****]()
+
 [****]()
 [****]()
 [****]()
@@ -412,7 +415,6 @@ Caching Static Files with Amazon CloudFront
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Troubleshooting Website Reachability behind a Load Balancer
-Working with Amazon VPC Network Access Analyzer
 Working with Amazon CloudFront for Dynamic Content Acceleration
 Auditing Your Security with AWS Trusted Advisor
 Filtering and blocking web incursions with AWS WAF
