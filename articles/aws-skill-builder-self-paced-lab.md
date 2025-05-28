@@ -365,14 +365,25 @@ IAMロールの引き受けに関する問題に焦点を当て、IAMユーザ�
 tag: AWS Identity and Access Management (IAM), AWS Systems Manager (Session Manager)
 
 
+[**Managing Access to Amazon S3 Resources with Amazon VPC Endpoints (日本語)**](https://explore.skillbuilder.aws/learn/courses/11541/managing-access-to-amazon-s3-resources-with-amazon-vpc-endpoints-ri-ben-yu)
+Amazon VPCエンドポイントを使用して、プライベートサブネット内のEC2インスタンスからAmazon S3リソースへ安全にアクセスする方法を学びます。インターネット経由のアクセスを排除し、S3バージョニングでデータ保護を強化します。
+tag: Amazon VPC, Amazon S3, Amazon EC2, AWS Systems Manager (Session Manager)
 
 
+
+
+[****]()
 [****]()
 [****]()
 [****]()
 
 [**Stock Replenishment App (日本語)**](https://explore.skillbuilder.aws/learn/courses/17671/stock-replenishment-app-ri-ben-yu)
 "アクセス権がないようです"
+
+
+[**Managing Access at Scale with Amazon S3 Access Points (日本語)**](https://explore.skillbuilder.aws/learn/courses/21829/managing-access-at-scale-with-amazon-s3-access-points-ri-ben-yu)
+アクセス権がないようです
+
 
 [**Controlling the Network (日本語)**](https://explore.skillbuilder.aws/learn/courses/13887/controlling-the-network-ri-ben-yu)
 問い合わせ中
@@ -407,8 +418,6 @@ Auditing Your Security with AWS Trusted Advisor
 Filtering and blocking web incursions with AWS WAF
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Zero Trust Architecture for Service-To-Service Workloads
-Managing Access at Scale with Amazon S3 Access Points
-Managing Access to Amazon S3 Resources with Amazon VPC Endpoints
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
 Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
 Build a Serverless Text-to-Speech Application with Amazon Polly
