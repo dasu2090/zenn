@@ -376,6 +376,15 @@ Amazon VPC Network Access Analyzerを使って、AWSネットワークのセキ�
 tag: Amazon VPC(サブネット、ルートテーブル、ネットワークACL、セキュリティグループ、インターネットゲートウェイ、NATゲートウェイ、VPCピアリング接続、VPCエンドポイント), Amazon VPC Network Access Analyzer
 
 
+
+[**Building with Amazon DynamoDB Tables (日本語)**](https://explore.skillbuilder.aws/learn/courses/16717/building-with-amazon-dynamodb-tables-ri-ben-yu)
+Amazon DynamoDBへのJSONデータのインポート、複雑なクエリの実行、**DynamoDB Accelerator (DAX)**によるパフォーマンス向上を学びます。さらに、DynamoDBのバックアップ、復元、モニタリングオプションも探究します。
+tag: Amazon DynamoDB, Amazon DynamoDB Accelerator (DAX), Amazon EC2, Amazon CloudWatch, Amazon SNS
+
+
+
+[****]()
+[****]()
 [****]()
 [****]()
 [****]()
@@ -403,7 +412,6 @@ tag: Amazon VPC(サブネット、ルートテーブル、ネットワークACL�
 Building with Amazon DocumentDB Databases
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
-Building with Amazon DynamoDB Tables
 Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
 Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
 Media Services: Use AWS AI services to automate captioning & subtitling
