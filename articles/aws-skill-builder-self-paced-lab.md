@@ -382,8 +382,11 @@ Amazon DynamoDBへのJSONデータのインポート、複雑なクエリの実�
 tag: Amazon DynamoDB, Amazon DynamoDB Accelerator (DAX), Amazon EC2, Amazon CloudWatch, Amazon SNS
 
 
+[**Caching Static Files with Amazon CloudFront (日本語)**](https://explore.skillbuilder.aws/learn/courses/7752/caching-static-files-with-amazon-cloudfront-ri-ben-yu)
+Amazon S3にホストされた静的ウェブサイトをAmazon CloudFrontで配信し、コンテンツ配信を高速化します。CloudFrontディストリビューションの作成、設定、コンテンツの更新・無効化を学び、世界中のエッジロケーションからコンテンツを効率的に提供する方法を理解します。
+tag: Amazon CloudFront, Amazon S3
 
-[****]()
+
 [****]()
 [****]()
 [****]()
@@ -419,7 +422,6 @@ Migrating Web Application to Cloud using AWS Elastic Beastalk
 Migrate a Monolith Web Application to AWS Using Application Migration Service
 Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces
 Configuring and Deploying Amazon VPC for a 3-tier Web App
-Caching Static Files with Amazon CloudFront
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Troubleshooting Website Reachability behind a Load Balancer
