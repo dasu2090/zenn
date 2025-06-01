@@ -244,6 +244,8 @@ SSL証明書の信頼性が原因
 
 [**Deploying Your First AWS Lambda Container (日本語)**](https://explore.skillbuilder.aws/learn/courses/13299/deploying-your-first-aws-lambda-container-ri-ben-yu)
 
+
+
 [**EC2 Instance Rightsizing (日本語)**](https://explore.skillbuilder.aws/learn/courses/18130/ec2-instance-rightsizing-ri-ben-yu)
 EC2インスタンスの適切なサイジングによるコスト最適化を体験します。CloudWatchエージェントの導入、負荷シミュレーション、メトリクス分析に基づき、インスタンスタイプやサイズを変更し、将来的なリソース制約を監視するためのCloudWatchアラームを設定します。
 $\textcolor{green}{tag}$: Amazon Elastic Compute Cloud (EC2), Amazon CloudWatch, AWS Systems Manager, AWS Pricing Calculator
@@ -278,7 +280,6 @@ tag: Amazon Neptune, Amazon SageMaker
 [**Effortless Relational Scalability with Amazon Aurora Serverless v2 (日本語)**](https://explore.skillbuilder.aws/learn/courses/16225/effortless-relational-scalability-with-amazon-aurora-serverless-v2-ri-ben-yu)
 Amazon Aurora Serverless v2 for PostgreSQLを設定し、pgbenchによる負荷テストを通じてワークロードの変化に応じた自動スケーリングを検証します。CloudWatchダッシュボードとPerformance Insightsを用いてデータベースのパフォーマンスとスケーリングの様子をモニタリングします。
 tag: Amazon Aurora, Amazon CloudWatch, Amazon RDS Performance Insights, AWS Cloud9, AWS CloudFormation
-
 
 
 [**Amazon DynamoDB CRUD Activities Using the AWS CLI and SDK (日本語)**](https://explore.skillbuilder.aws/learn/courses/8617/amazon-dynamodb-crud-activities-using-the-aws-cli-and-sdk-ri-ben-yu)
@@ -316,11 +317,9 @@ AWSマネジメントコンソール、AWS CLI、AWS SDK (Python) を使用し�
 tag: AWS Systems Manager (Session Manager), AWS CLI, AWS SDK for Python (Boto3), Amazon EC2, Amazon S3, Amazon EBS, Amazon CloudWatch
 
 
-
 [**AWS Federated Authentication with AD FS (日本語)**](https://explore.skillbuilder.aws/learn/courses/10979/aws-federated-authentication-with-ad-fs-ri-ben-yu)
 AD FSとAWS IAMを連携させて、Active DirectoryユーザーがSAML認証を通じてAWSマネジメントコンソールへフェデレーションアクセスする方法を学びます。AD FSサーバーのセットアップ、Active Directoryグループとユーザーの作成、IAMでのIDプロバイダーと信頼ポリシーの設定を行い、アクセス制限が正しく機能するかを検証します。
 tag: AWS Identity and Access Management (IAM), Amazon Elastic Compute Cloud (EC2), AWS Systems Manager (Fleet Manager)
-
 
 
 [**Troubleshooting API Gateway with Lambda Proxy Integration (日本語)**](https://explore.skillbuilder.aws/learn/courses/17004/troubleshooting-api-gateway-with-lambda-proxy-integration-ri-ben-yu)
@@ -338,11 +337,9 @@ AWS Cloud9と.NET CLIを使用して、.NETアプリケーションをAWS Lambda
 tag: AWS Cloud9, AWS Lambda, Amazon S3, AWS Serverless Application Model (SAM) 
 
 
-
 [**Building with Amazon Aurora Databases (日本語)**](https://explore.skillbuilder.aws/learn/courses/16587/building-with-amazon-aurora-databases-ri-ben-yu)
 Amazon Aurora (MySQL互換) のパラレルクエリ機能について学習し、大規模なデータセットに対するクエリパフォーマンスへの影響を理解します。異なるインスタンスサイズでのパラレルクエリの動作を比較し、その活用方法を実践します。
 tag: Amazon Aurora, Amazon Elastic Compute Cloud (EC2), Amazon CloudWatch
-
 
 
 [**AWS Network Firewall Fundamentals (日本語)**](https://explore.skillbuilder.aws/learn/courses/17056/aws-network-firewall-fundamentals-ri-ben-yu)
@@ -387,7 +384,15 @@ Amazon S3にホストされた静的ウェブサイトをAmazon CloudFrontで配
 tag: Amazon CloudFront, Amazon S3
 
 
-[****]()
+[**Auditing Your Security with AWS Trusted Advisor (日本語)**](https://explore.skillbuilder.aws/learn/courses/6930/auditing-your-security-with-aws-trusted-advisor-ri-ben-yu)
+AWS Trusted Advisorを用いてAWSリソースのセキュリティ監査を行い、基本的なセキュリティベストプラクティスへの準拠を確認します。具体的には、Amazon EC2セキュリティグループの不適切なポート設定の修正、多要素認証（MFA）の設定、およびAWS IAMの操作方法を学びます。
+tag: AWS Trusted Advisor, Amazon EC2, AWS IAM
+
+
+
+
+
+
 [****]()
 [****]()
 [****]()
@@ -426,7 +431,6 @@ Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Troubleshooting Website Reachability behind a Load Balancer
 Working with Amazon CloudFront for Dynamic Content Acceleration
-Auditing Your Security with AWS Trusted Advisor
 Filtering and blocking web incursions with AWS WAF
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Zero Trust Architecture for Service-To-Service Workloads
