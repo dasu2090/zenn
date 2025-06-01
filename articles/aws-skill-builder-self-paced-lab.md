@@ -394,7 +394,13 @@ AWSクラウド上に3層ウェブアプリケーションをサポートするA
 tag: Amazon VPC, Amazon EC2, Amazon RDS, Elastic Load Balancing (Application Load Balancer)
 
 
-[****]()
+[**Building with Amazon DocumentDB Databases (日本語)**](https://explore.skillbuilder.aws/learn/courses/18818/building-with-amazon-documentdb-databases-ri-ben-yu)
+リレーショナルデータを非リレーショナルデータモデルに変換し、変換後のデータをAmazon DocumentDBにインポートする方法を学びます。データのロード、クエリの実行、バックアップ、パフォーマンスモニタリング、フェイルオーバーのシミュレーションを通じてDocumentDBの運用を体験します。
+tag: Amazon DocumentDB, Amazon EC2, Amazon API Gateway, AWS Lambda, AWS Secrets Manager
+Amazon CloudWatch
+
+
+
 [****]()
 [****]()
 [****]()
@@ -419,7 +425,6 @@ tag: Amazon VPC, Amazon EC2, Amazon RDS, Elastic Load Balancing (Application Loa
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Building with Amazon DocumentDB Databases
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
 Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
