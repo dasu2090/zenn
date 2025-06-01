@@ -389,10 +389,12 @@ AWS Trusted Advisorを用いてAWSリソースのセキュリティ監査を行�
 tag: AWS Trusted Advisor, Amazon EC2, AWS IAM
 
 
+[**Configuring and Deploying Amazon VPC for a 3-tier Web App (日本語)**](https://explore.skillbuilder.aws/learn/courses/6951/configuring-and-deploying-amazon-vpc-for-a-3-tier-web-app-ri-ben-yu)
+AWSクラウド上に3層ウェブアプリケーションをサポートするAmazon VPCインフラストラクチャを構築・デプロイします。VPC、パブリック/プライベートサブネット、インターネットゲートウェイ、NATゲートウェイ、ルートテーブル、セキュリティグループを設定し、Amazon RDSとAmazon EC2インスタンスにアプリケーションをデプロイ後、Application Load Balancerで公開します。
+tag: Amazon VPC, Amazon EC2, Amazon RDS, Elastic Load Balancing (Application Load Balancer)
 
 
-
-
+[****]()
 [****]()
 [****]()
 [****]()
@@ -426,7 +428,6 @@ Media Services: Use AWS AI services to automate captioning & subtitling
 Migrating Web Application to Cloud using AWS Elastic Beastalk
 Migrate a Monolith Web Application to AWS Using Application Migration Service
 Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces
-Configuring and Deploying Amazon VPC for a 3-tier Web App
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Troubleshooting Website Reachability behind a Load Balancer
