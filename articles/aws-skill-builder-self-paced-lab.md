@@ -401,7 +401,12 @@ Amazon CloudWatch
 
 
 
-[****]()
+[**Filtering and blocking web incursions with AWS WAF (日本語)**](https://explore.skillbuilder.aws/learn/courses/13341/filtering-and-blocking-web-incursions-with-aws-waf-ri-ben-yu)
+AWS WAFを使ってウェブアプリケーションへのSQLインジェクション（SQLi）やクロスサイトスクリプティング（XSS）攻撃を防ぎます。まず、OWASP ZAPを用いてこれらの脆弱性を特定し、次にAWS WAFでウェブACLを作成し、AWSマネージドルールグループとカスタムルールを適用してアプリケーションを保護します。
+tag: AWS WAF (Web Application Firewall), Amazon CloudFront, AWS Systems Manager (Fleet Manager)
+
+
+
 [****]()
 [****]()
 
@@ -437,7 +442,6 @@ Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Troubleshooting Website Reachability behind a Load Balancer
 Working with Amazon CloudFront for Dynamic Content Acceleration
-Filtering and blocking web incursions with AWS WAF
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Zero Trust Architecture for Service-To-Service Workloads
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
