@@ -406,7 +406,13 @@ AWS WAFを使ってウェブアプリケーションへのSQLインジェクシ�
 tag: AWS WAF (Web Application Firewall), Amazon CloudFront, AWS Systems Manager (Fleet Manager)
 
 
+[**Zero Trust Architecture for Service-To-Service Workloads (日本語)**](https://explore.skillbuilder.aws/learn/courses/16251/zero-trust-architecture-for-service-to-service-workloads-ri-ben-yu)
+サービス間ワークロードにゼロトラストアーキテクチャを実装し、Amazon API Gateway、AWS Identity and Access Management (IAM)、Amazon Virtual Private Cloud (VPC)、VPCエンドポイントのセキュリティグループルールを強化することで、セキュリティ体制を改善します。これにより、従来のネットワーク中心の制御から、アイデンティティとネットワークの両方を組み合わせた多層的なセキュリティモデルへ移行します。
+tag: Amazon API Gateway, AWS IAM, Amazon VPC, Amazon EC2, AWS Lambda
 
+
+[****]()
+[****]()
 [****]()
 [****]()
 
@@ -443,7 +449,10 @@ Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connec
 Troubleshooting Website Reachability behind a Load Balancer
 Working with Amazon CloudFront for Dynamic Content Acceleration
 Scale Your Security Vulnerability Testing with Amazon Inspector
-Zero Trust Architecture for Service-To-Service Workloads
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
 Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
 Build a Serverless Text-to-Speech Application with Amazon Polly
+
+
+
+
