@@ -411,7 +411,13 @@ tag: AWS WAF (Web Application Firewall), Amazon CloudFront, AWS Systems Manager 
 tag: Amazon API Gateway, AWS IAM, Amazon VPC, Amazon EC2, AWS Lambda
 
 
-[****]()
+[**Troubleshooting Website Reachability behind a Load Balancer (日本語)**](https://explore.skillbuilder.aws/learn/courses/21480/troubleshooting-website-reachability-behind-a-load-balancer-ri-ben-yu)
+Elastic Load Balancing (ELB) の背後にあるウェブサイトにユーザーがアクセスできないシナリオをトラブルシューティングします。Application Load Balancer (ALB)、Amazon EC2インスタンス、関連するネットワーク設定を確認・修正し、ウェブサイトへのアクセスと高可用性を実現します。
+tag: Elastic Load Balancing (ELB), Application Load Balancer (ALB), Amazon EC2, Amazon VPC
+
+
+
+
 [****]()
 [****]()
 [****]()
@@ -446,7 +452,6 @@ Migrate a Monolith Web Application to AWS Using Application Migration Service
 Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
-Troubleshooting Website Reachability behind a Load Balancer
 Working with Amazon CloudFront for Dynamic Content Acceleration
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
