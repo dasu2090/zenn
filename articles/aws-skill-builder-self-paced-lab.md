@@ -201,6 +201,11 @@ tag: Amazon Relational Database Service (RDS), AWS Systems Manager (Session Mana
 [**Using AWS Lambda with Amazon CloudWatch and SNS to Implement a Slack Chat Bot (日本語)**](https://explore.skillbuilder.aws/learn/courses/7758/using-aws-lambda-with-amazon-cloudwatch-and-sns-to-implement-a-slack-chat-bot-ri-ben-yu)
 
 
+[**Introduction to Amazon Elastic Container Registry (日本語)**](https://explore.skillbuilder.aws/learn/courses/6934/introduction-to-amazon-elastic-container-registry-ri-ben-yu)
+Amazon Elastic Container Registry (ECR) を使用してコンテナ化されたウェブアプリケーションのイメージを保存、管理、デプロイする方法を学びます。ECRリポジトリの作成、Dockerイメージのプッシュ、Amazon Elastic Container Service (ECS)へのアプリケーションデプロイを通じてコンテナワークフローを実践します。
+tag: Amazon Elastic Container Registry (Amazon ECR), Amazon Elastic Container Service (Amazon ECS)
+
+
 [**Working with Amazon Elastic Container Service (日本語)**](https://explore.skillbuilder.aws/learn/courses/6926/working-with-amazon-elastic-container-service-ri-ben-yu)
 アクセス権が無い
 
@@ -457,7 +462,3 @@ Scale Your Security Vulnerability Testing with Amazon Inspector
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
 Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
 Build a Serverless Text-to-Speech Application with Amazon Polly
-
-
-
-
