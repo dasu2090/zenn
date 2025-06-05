@@ -6,6 +6,7 @@ topics: ["aws"]
 published: false
 ---
 
+6/6 レイアウトが変わった
 
 インスタンスクラス
 IAM拒否
@@ -421,11 +422,17 @@ Elastic Load Balancing (ELB) の背後にあるウェブサイトにユーザー
 tag: Elastic Load Balancing (ELB), Application Load Balancer (ALB), Amazon EC2, Amazon VPC
 
 
+[**Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights (日本語)**](https://explore.skillbuilder.aws/learn/courses/6943/collecting-and-analyzing-logs-with-amazon-cloudwatch-logs-insights-ri-ben-yu)
+N層ウェブアプリケーションのログを収集・分析し、セキュリティ脆弱性を調査します。AWS Systems ManagerでAmazon EC2にCloudWatch エージェントをインストールし、ウェブサーバー、システム、Amazon VPC フローログ、Amazon RDSデータベースログをAmazon CloudWatch Logsに集約し、CloudWatch Logs Insightsで分析します。
+tag: Amazon CloudWatch Logs, Amazon CloudWatch Logs Insights, AWS Systems Manager, Amazon EC2, Amazon VPC, Amazon RDS
 
 
 [****]()
-[****]()
-[****]()
+
+
+[**Migrating Web Application to Cloud using AWS Elastic Beanstalk (日本語)**](https://explore.skillbuilder.aws/learn/courses/14421/migrating-web-application-to-cloud-using-aws-elastic-beanstalk-ri-ben-yu)
+"アクセス権がないようです"
+
 
 [**Stock Replenishment App (日本語)**](https://explore.skillbuilder.aws/learn/courses/17671/stock-replenishment-app-ri-ben-yu)
 "アクセス権がないようです"
@@ -449,10 +456,8 @@ tag: Elastic Load Balancing (ELB), Application Load Balancer (ALB), Amazon EC2, 
 
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
-Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
 Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
 Media Services: Use AWS AI services to automate captioning & subtitling
-Migrating Web Application to Cloud using AWS Elastic Beastalk
 Migrate a Monolith Web Application to AWS Using Application Migration Service
 Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
