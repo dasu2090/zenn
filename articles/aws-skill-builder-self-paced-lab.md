@@ -427,6 +427,16 @@ N層ウェブアプリケーションのログを収集・分析し、セキュ�
 tag: Amazon CloudWatch Logs, Amazon CloudWatch Logs Insights, AWS Systems Manager, Amazon EC2, Amazon VPC, Amazon RDS
 
 
+[**Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/15560/event-driven-architecture-with-amazon-api-gateway-amazon-eventbridge-and-aws-lambda-ri-ben-yu)
+Amazon API Gateway、Amazon EventBridge、AWS Lambdaを組み合わせて、イベント駆動型のサーバーレスアーキテクチャを構築します。HTTP APIでリクエストを受け取りEventBridgeへ連携、EventBridgeのルールでLambda関数を呼び出し、処理されたイベントをWebSocket経由でクライアントへリアルタイムに通知します。
+tag: Amazon API Gateway, Amazon EventBridge, AWS Lambda
+
+
+
+[****]()
+[****]()
+[****]()
+[****]()
 [****]()
 
 
@@ -465,5 +475,4 @@ Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connec
 Working with Amazon CloudFront for Dynamic Content Acceleration
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
-Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
 Build a Serverless Text-to-Speech Application with Amazon Polly
