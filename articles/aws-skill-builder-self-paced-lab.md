@@ -427,6 +427,25 @@ N層ウェブアプリケーションのログを収集・分析し、セキュ�
 tag: Amazon CloudWatch Logs, Amazon CloudWatch Logs Insights, AWS Systems Manager, Amazon EC2, Amazon VPC, Amazon RDS
 
 
+[**Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/15560/event-driven-architecture-with-amazon-api-gateway-amazon-eventbridge-and-aws-lambda-ri-ben-yu)
+Amazon API Gateway、Amazon EventBridge、AWS Lambdaを組み合わせて、イベント駆動型のサーバーレスアーキテクチャを構築します。HTTP APIでリクエストを受け取りEventBridgeへ連携、EventBridgeのルールでLambda関数を呼び出し、処理されたイベントをWebSocket経由でクライアントへリアルタイムに通知します。
+tag: Amazon API Gateway, Amazon EventBridge, AWS Lambda
+
+
+[**Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces (日本語)**](https://explore.skillbuilder.aws/learn/courses/21747/refactoring-legacy-apps-to-microservices-using-aws-migration-hub-refactor-spaces-ri-ben-yu)
+AWS Migration Hub Refactor Spacesを使用して既存のモノリシックアプリケーションをマイクロサービスアーキテクチャにリファクタリングするプロセスを段階的に学びます。ショッピングカート機能をAWS LambdaとAmazon DynamoDBで構築された新しいマイクロサービスへ移行し、トラフィックルーティングを定義することで、レガシーシステムと新サービスを並行稼働させます。
+tag: AWS Migration Hub Refactor Spaces, AWS Lambda, Amazon DynamoDB, Amazon S3, Amazon API Gateway
+
+
+[**Working with Amazon CloudFront for Dynamic Content Acceleration (日本語)**](https://explore.skillbuilder.aws/learn/courses/7750/working-with-amazon-cloudfront-for-dynamic-content-acceleration-ri-ben-yu)
+Amazon CloudFront を使用して動的なウェブサイト（phpBBフォーラム）のコンテンツ配信を高速化します。Amazon EC2上で動作する動的サイトと静的コンテンツの両方をCloudFrontのグローバルエッジネットワークを介して配信・最適化し、ユーザーエクスペリエンスを向上させます。
+tag: Amazon CloudFront, Amazon EC2, Amazon S3
+
+
+
+
+[****]()
+[****]()
 [****]()
 
 
@@ -459,11 +478,8 @@ Building with Amazon RDS Databases
 Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
 Media Services: Use AWS AI services to automate captioning & subtitling
 Migrate a Monolith Web Application to AWS Using Application Migration Service
-Refactoring Legacy Apps to Microservices using AWS Migration Hub Refactor Spaces
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
-Working with Amazon CloudFront for Dynamic Content Acceleration
 Scale Your Security Vulnerability Testing with Amazon Inspector
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
-Event Driven Architecture with Amazon API Gateway, Amazon EventBridge and AWS Lambda
 Build a Serverless Text-to-Speech Application with Amazon Polly
