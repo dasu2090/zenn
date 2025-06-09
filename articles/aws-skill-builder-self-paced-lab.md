@@ -442,19 +442,25 @@ Amazon CloudFront を使用して動的なウェブサイト（phpBBフォーラ
 tag: Amazon CloudFront, Amazon EC2, Amazon S3
 
 
+[**Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch (日本語)**](https://explore.skillbuilder.aws/learn/courses/21975/lab-monitoring-micro-service-architectures-with-aws-x-ray-and-amazon-cloudwatch-ri-ben-yu)
+マイクロサービスアーキテクチャの監視にAWS X-RayとAmazon CloudWatchを活用する方法を学びます。X-Rayの設定を有効化し、サービスマップの作成、エンドツーエンドのリクエストの可視化、トレースデータの確認を行います。
+tag: AWS X-Ray, Amazon CloudWatch, Amazon EC2
 
 
 [****]()
 [****]()
 [****]()
 
+
+[**Migrate a Monolith Web Application to AWS Using Application Migration Service (日本語)**](https://explore.skillbuilder.aws/learn/courses/15759/migrate-a-monolith-web-application-to-aws-using-application-migration-service-ri-ben-yu)
+アクセス権がないようです
 
 [**Migrating Web Application to Cloud using AWS Elastic Beanstalk (日本語)**](https://explore.skillbuilder.aws/learn/courses/14421/migrating-web-application-to-cloud-using-aws-elastic-beanstalk-ri-ben-yu)
-"アクセス権がないようです"
+アクセス権がないようです
 
 
 [**Stock Replenishment App (日本語)**](https://explore.skillbuilder.aws/learn/courses/17671/stock-replenishment-app-ri-ben-yu)
-"アクセス権がないようです"
+アクセス権がないようです
 
 
 [**Managing Access at Scale with Amazon S3 Access Points (日本語)**](https://explore.skillbuilder.aws/learn/courses/21829/managing-access-at-scale-with-amazon-s3-access-points-ri-ben-yu)
@@ -475,9 +481,7 @@ tag: Amazon CloudFront, Amazon EC2, Amazon S3
 
 Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
-Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
 Media Services: Use AWS AI services to automate captioning & subtitling
-Migrate a Monolith Web Application to AWS Using Application Migration Service
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Scale Your Security Vulnerability Testing with Amazon Inspector
