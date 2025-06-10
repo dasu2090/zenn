@@ -236,6 +236,11 @@ SSL証明書の信頼性が原因
 [**Serverless Architectures using Amazon CloudWatch Events and Scheduled Events with AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7760/serverless-architectures-using-amazon-cloudwatch-events-and-scheduled-events-with-aws-lambda-ri-ben-yu)
 
 
+### 2時間
+[**Building VPC, S3, EC2, and RDS Products with AWS Service Catalog (日本語)**]()
+not yet
+
+
 ## 中級
 
 ### 30分
@@ -447,10 +452,19 @@ tag: Amazon CloudFront, Amazon EC2, Amazon S3
 tag: AWS X-Ray, Amazon CloudWatch, Amazon EC2
 
 
+[**Building with Amazon Redshift Clusters (日本語)**](https://explore.skillbuilder.aws/learn/courses/17376/building-with-amazon-redshift-clusters-ri-ben-yu)
+Amazon Redshiftクラスターを構築し、SQL Workbenchを使用してIMDbデータセットを効率的に分析する方法を学びます。データのインポート（COPYコマンド、マニフェストファイル）、エクスポート（UNLOADコマンド）、パフォーマンス最適化のためのVACUUM/ANALYZEコマンド、そしてSORTKEYとDISTKEYの使用方法について習得します。
+tag: Amazon Redshift, Amazon S3
+
+
+
 [****]()
 [****]()
 [****]()
 
+
+[**Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7754/serverless-architectures-with-amazon-dynamodb-and-amazon-kinesis-streams-with-aws-lambda-ri-ben-yu)
+アクセス権がないようです
 
 [**Migrate a Monolith Web Application to AWS Using Application Migration Service (日本語)**](https://explore.skillbuilder.aws/learn/courses/15759/migrate-a-monolith-web-application-to-aws-using-application-migration-service-ri-ben-yu)
 アクセス権がないようです
@@ -479,11 +493,9 @@ tag: AWS X-Ray, Amazon CloudWatch, Amazon EC2
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
 Media Services: Use AWS AI services to automate captioning & subtitling
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Scale Your Security Vulnerability Testing with Amazon Inspector
-Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
 Build a Serverless Text-to-Speech Application with Amazon Polly
