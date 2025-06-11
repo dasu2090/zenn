@@ -236,6 +236,11 @@ SSL証明書の信頼性が原因
 [**Serverless Architectures using Amazon CloudWatch Events and Scheduled Events with AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7760/serverless-architectures-using-amazon-cloudwatch-events-and-scheduled-events-with-aws-lambda-ri-ben-yu)
 
 
+### 2時間
+[**Building VPC, S3, EC2, and RDS Products with AWS Service Catalog (日本語)**]()
+not yet
+
+
 ## 中級
 
 ### 30分
@@ -442,19 +447,39 @@ Amazon CloudFront を使用して動的なウェブサイト（phpBBフォーラ
 tag: Amazon CloudFront, Amazon EC2, Amazon S3
 
 
+[**Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch (日本語)**](https://explore.skillbuilder.aws/learn/courses/21975/lab-monitoring-micro-service-architectures-with-aws-x-ray-and-amazon-cloudwatch-ri-ben-yu)
+マイクロサービスアーキテクチャの監視にAWS X-RayとAmazon CloudWatchを活用する方法を学びます。X-Rayの設定を有効化し、サービスマップの作成、エンドツーエンドのリクエストの可視化、トレースデータの確認を行います。
+tag: AWS X-Ray, Amazon CloudWatch, Amazon EC2
+
+
+[**Building with Amazon Redshift Clusters (日本語)**](https://explore.skillbuilder.aws/learn/courses/17376/building-with-amazon-redshift-clusters-ri-ben-yu)
+Amazon Redshiftクラスターを構築し、SQL Workbenchを使用してIMDbデータセットを効率的に分析する方法を学びます。データのインポート（COPYコマンド、マニフェストファイル）、エクスポート（UNLOADコマンド）、パフォーマンス最適化のためのVACUUM/ANALYZEコマンド、そしてSORTKEYとDISTKEYの使用方法について習得します。
+tag: Amazon Redshift, Amazon S3
+
+
+[**Build a Serverless Text-to-Speech Application with Amazon Polly (日本語)**](https://explore.skillbuilder.aws/learn/courses/11628/build-a-serverless-text-to-speech-application-with-amazon-polly-ri-ben-yu)
+Amazon Pollyを活用してサーバーレスなテキスト読み上げアプリケーションを構築します。テキストから音声を生成し、Amazon S3に保存されたウェブUIを介して、Amazon API Gateway、AWS Lambda、Amazon SNS、Amazon DynamoDBを連携させ、リアルタイムかつ効率的な音声合成サービスを提供します。
+tag: Amazon Polly, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon SNS
+
+
 
 
 [****]()
 [****]()
-[****]()
 
+
+[**Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7754/serverless-architectures-with-amazon-dynamodb-and-amazon-kinesis-streams-with-aws-lambda-ri-ben-yu)
+アクセス権がないようです
+
+[**Migrate a Monolith Web Application to AWS Using Application Migration Service (日本語)**](https://explore.skillbuilder.aws/learn/courses/15759/migrate-a-monolith-web-application-to-aws-using-application-migration-service-ri-ben-yu)
+アクセス権がないようです
 
 [**Migrating Web Application to Cloud using AWS Elastic Beanstalk (日本語)**](https://explore.skillbuilder.aws/learn/courses/14421/migrating-web-application-to-cloud-using-aws-elastic-beanstalk-ri-ben-yu)
-"アクセス権がないようです"
+アクセス権がないようです
 
 
 [**Stock Replenishment App (日本語)**](https://explore.skillbuilder.aws/learn/courses/17671/stock-replenishment-app-ri-ben-yu)
-"アクセス権がないようです"
+アクセス権がないようです
 
 
 [**Managing Access at Scale with Amazon S3 Access Points (日本語)**](https://explore.skillbuilder.aws/learn/courses/21829/managing-access-at-scale-with-amazon-s3-access-points-ri-ben-yu)
@@ -473,13 +498,8 @@ tag: Amazon CloudFront, Amazon EC2, Amazon S3
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Building with Amazon Redshift Clusters
 Building with Amazon RDS Databases
-Lab - Monitoring Micro-Service Architectures with AWS X-Ray and Amazon CloudWatch
 Media Services: Use AWS AI services to automate captioning & subtitling
-Migrate a Monolith Web Application to AWS Using Application Migration Service
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Scale Your Security Vulnerability Testing with Amazon Inspector
-Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS
-Build a Serverless Text-to-Speech Application with Amazon Polly
