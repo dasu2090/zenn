@@ -457,8 +457,13 @@ Amazon Redshiftクラスターを構築し、SQL Workbenchを使用してIMDbデ
 tag: Amazon Redshift, Amazon S3
 
 
+[**Build a Serverless Text-to-Speech Application with Amazon Polly (日本語)**](https://explore.skillbuilder.aws/learn/courses/11628/build-a-serverless-text-to-speech-application-with-amazon-polly-ri-ben-yu)
+Amazon Pollyを活用してサーバーレスなテキスト読み上げアプリケーションを構築します。テキストから音声を生成し、Amazon S3に保存されたウェブUIを介して、Amazon API Gateway、AWS Lambda、Amazon SNS、Amazon DynamoDBを連携させ、リアルタイムかつ効率的な音声合成サービスを提供します。
+tag: Amazon Polly, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon SNS
 
-[****]()
+
+
+
 [****]()
 [****]()
 
@@ -498,4 +503,3 @@ Media Services: Use AWS AI services to automate captioning & subtitling
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Scale Your Security Vulnerability Testing with Amazon Inspector
-Build a Serverless Text-to-Speech Application with Amazon Polly
