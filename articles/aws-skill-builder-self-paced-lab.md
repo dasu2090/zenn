@@ -458,12 +458,21 @@ tag: Amazon Redshift, Amazon S3
 
 
 [**Build a Serverless Text-to-Speech Application with Amazon Polly (日本語)**](https://explore.skillbuilder.aws/learn/courses/11628/build-a-serverless-text-to-speech-application-with-amazon-polly-ri-ben-yu)
-Amazon Pollyを活用してサーバーレスなテキスト読み上げアプリケーションを構築します。テキストから音声を生成し、Amazon S3に保存されたウェブUIを介して、Amazon API Gateway、AWS Lambda、Amazon SNS、Amazon DynamoDBを連携させ、リアルタイムかつ効率的な音声合成サービスを提供します。
+Amazon Pollyを活用してサーバーレスなテキスト読み上げアプリケーションを構築します。テキストから音声を生成し、Amazon S3に保存されたウェブUIを介して、Amazon API Gateway、AWS Lambda、Amazon SNS、Amazon DynamoDBを連携させ、音声合成サービスを提供します。
 tag: Amazon Polly, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon SNS
 
 
+[**Building with Amazon RDS Databases (日本語)**](https://explore.skillbuilder.aws/learn/courses/16675/building-with-amazon-rds-databases-ri-ben-yu)
+Amazon RDSでマルチAZフェイルオーバーと暗号化を設定し、高可用性リレーショナルデータベースを構築します。また、AWS Secrets Managerを使用してデータベース認証情報を安全に管理し、自動ローテーションとSSL暗号化を適用してセキュリティを強化する方法を学びます。
+tag: Amazon RDS, AWS Secrets Manager
+
+x mada
 
 
+
+
+[****]()
+[****]()
 [****]()
 [****]()
 
@@ -498,7 +507,6 @@ tag: Amazon Polly, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, A
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Building with Amazon RDS Databases
 Media Services: Use AWS AI services to automate captioning & subtitling
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
