@@ -466,12 +466,14 @@ tag: Amazon Polly, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, A
 Amazon RDSでマルチAZフェイルオーバーと暗号化を設定し、高可用性リレーショナルデータベースを構築します。また、AWS Secrets Managerを使用してデータベース認証情報を安全に管理し、自動ローテーションとSSL暗号化を適用してセキュリティを強化する方法を学びます。
 tag: Amazon RDS, AWS Secrets Manager
 
-x mada
+
+[**Media Services: Use AWS AI services to automate captioning & subtitling (日本語)**](https://explore.skillbuilder.aws/learn/courses/11881/media-services-use-aws-ai-services-to-automate-captioning-subtitling-ri-ben-yu)
+AWSのAIサービスを使い、動画コンテンツの自動キャプション生成、多言語字幕作成、多言語音声トラック生成を行うワークフローを構築します。最終的にこれらの要素を統合し、AWS Elemental MediaConvertでストリーミング可能なApple HLSスタックを作成し、再生を行います。
+tag: Amazon Transcribe, Amazon Translate, Amazon Polly, AWS Elemental MediaConvert, Amazon S3
 
 
 
 
-[****]()
 [****]()
 [****]()
 [****]()
@@ -507,7 +509,6 @@ x mada
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Media Services: Use AWS AI services to automate captioning & subtitling
 Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
 Scale Your Security Vulnerability Testing with Amazon Inspector
