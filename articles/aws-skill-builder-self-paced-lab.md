@@ -472,11 +472,21 @@ AWSのAIサービスを使い、動画コンテンツの自動キャプション
 tag: Amazon Transcribe, Amazon Translate, Amazon Polly, AWS Elemental MediaConvert, Amazon S3
 
 
+[**Comparing Amazon Virtual Private Cloud (VPC) peering and AWS Transit Gateway (日本語)**](https://explore.skillbuilder.aws/learn/courses/10983/comparing-amazon-virtual-private-cloud-vpc-peering-and-aws-transit-gateway-ri-ben-yu)
+複数のAWSリージョンに分散したAmazon VPC間のネットワーク接続を、VPCピアリングとAWS Transit Gatewayの2つの方法で構築し、それぞれの設定とルーティング管理を比較します。3つのVPC（2つはオレゴン、1つはバージニア北部）に配置されたAmazon EC2インスタンスを用いて、これらの接続オプションのネットワーク通信をテストします。
+tag: Amazon VPC, AWS Transit Gateway, Amazon EC2, AWS Systems Manager
 
 
+
 [****]()
 [****]()
 [****]()
+
+
+
+[**Scale Your Security Vulnerability Testing with Amazon Inspector (日本語)**](https://explore.skillbuilder.aws/learn/courses/6944/scale-your-security-vulnerability-testing-with-amazon-inspector-ri-ben-yu)
+問い合わせ中
+inspector:CreateResourceGroup を実行する権限がありません。
 
 
 [**Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7754/serverless-architectures-with-amazon-dynamodb-and-amazon-kinesis-streams-with-aws-lambda-ri-ben-yu)
@@ -509,6 +519,4 @@ tag: Amazon Transcribe, Amazon Translate, Amazon Polly, AWS Elemental MediaConve
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
-Scale Your Security Vulnerability Testing with Amazon Inspector
