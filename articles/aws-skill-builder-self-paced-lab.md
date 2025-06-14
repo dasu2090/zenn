@@ -458,14 +458,35 @@ tag: Amazon Redshift, Amazon S3
 
 
 [**Build a Serverless Text-to-Speech Application with Amazon Polly (日本語)**](https://explore.skillbuilder.aws/learn/courses/11628/build-a-serverless-text-to-speech-application-with-amazon-polly-ri-ben-yu)
-Amazon Pollyを活用してサーバーレスなテキスト読み上げアプリケーションを構築します。テキストから音声を生成し、Amazon S3に保存されたウェブUIを介して、Amazon API Gateway、AWS Lambda、Amazon SNS、Amazon DynamoDBを連携させ、リアルタイムかつ効率的な音声合成サービスを提供します。
+Amazon Pollyを活用してサーバーレスなテキスト読み上げアプリケーションを構築します。テキストから音声を生成し、Amazon S3に保存されたウェブUIを介して、Amazon API Gateway、AWS Lambda、Amazon SNS、Amazon DynamoDBを連携させ、音声合成サービスを提供します。
 tag: Amazon Polly, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon SNS
 
 
+[**Building with Amazon RDS Databases (日本語)**](https://explore.skillbuilder.aws/learn/courses/16675/building-with-amazon-rds-databases-ri-ben-yu)
+Amazon RDSでマルチAZフェイルオーバーと暗号化を設定し、高可用性リレーショナルデータベースを構築します。また、AWS Secrets Managerを使用してデータベース認証情報を安全に管理し、自動ローテーションとSSL暗号化を適用してセキュリティを強化する方法を学びます。
+tag: Amazon RDS, AWS Secrets Manager
+
+
+[**Media Services: Use AWS AI services to automate captioning & subtitling (日本語)**](https://explore.skillbuilder.aws/learn/courses/11881/media-services-use-aws-ai-services-to-automate-captioning-subtitling-ri-ben-yu)
+AWSのAIサービスを使い、動画コンテンツの自動キャプション生成、多言語字幕作成、多言語音声トラック生成を行うワークフローを構築します。最終的にこれらの要素を統合し、AWS Elemental MediaConvertでストリーミング可能なApple HLSスタックを作成し、再生を行います。
+tag: Amazon Transcribe, Amazon Translate, Amazon Polly, AWS Elemental MediaConvert, Amazon S3
+
+
+[**Comparing Amazon Virtual Private Cloud (VPC) peering and AWS Transit Gateway (日本語)**](https://explore.skillbuilder.aws/learn/courses/10983/comparing-amazon-virtual-private-cloud-vpc-peering-and-aws-transit-gateway-ri-ben-yu)
+複数のAWSリージョンに分散したAmazon VPC間のネットワーク接続を、VPCピアリングとAWS Transit Gatewayの2つの方法で構築し、それぞれの設定とルーティング管理を比較します。3つのVPC（2つはオレゴン、1つはバージニア北部）に配置されたAmazon EC2インスタンスを用いて、これらの接続オプションのネットワーク通信をテストします。
+tag: Amazon VPC, AWS Transit Gateway, Amazon EC2, AWS Systems Manager
+
 
 
 [****]()
 [****]()
+[****]()
+
+
+
+[**Scale Your Security Vulnerability Testing with Amazon Inspector (日本語)**](https://explore.skillbuilder.aws/learn/courses/6944/scale-your-security-vulnerability-testing-with-amazon-inspector-ri-ben-yu)
+問い合わせ中
+inspector:CreateResourceGroup を実行する権限がありません。
 
 
 [**Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7754/serverless-architectures-with-amazon-dynamodb-and-amazon-kinesis-streams-with-aws-lambda-ri-ben-yu)
@@ -498,8 +519,4 @@ tag: Amazon Polly, AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, A
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Building with Amazon RDS Databases
-Media Services: Use AWS AI services to automate captioning & subtitling
-Comparing Amazon Virtual Private Cloud(VPC) peering and AWS Transit Gateway
 Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
-Scale Your Security Vulnerability Testing with Amazon Inspector
