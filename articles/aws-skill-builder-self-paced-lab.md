@@ -97,6 +97,11 @@ tag: Amazon S3
 tag: AWS Lambda, Amazon CloudWatch, Amazon S3
 
 
+[**Custom Lenses using the AWS Well-Architected Tool (日本語版)**](https://explore.skillbuilder.aws/learn/courses/17237/custom-lenses-using-the-aws-well-architected-tool-ri-ben-yu)
+AWS Well-Architected ToolでAmazon DynamoDB実装向けのカスタムレンズを作成し、公開する方法を学びます。カスタムレンズのJSONテンプレートを編集して信頼性に関する質問とリスクルールを定義し、それをツールにアップロードしてワークロードのレビューに利用できるようにします。
+tag: AWS Well-Architected Tool
+
+
 #### メンテナンス中
 [**Introduction to AWS CloudFormation Designer (日本語)**](https://explore.skillbuilder.aws/learn/courses/10977/introduction-to-aws-cloudformation-designer-ri-ben-yu)
 
@@ -237,6 +242,10 @@ SSL証明書の信頼性が原因
 
 
 ### 2時間
+
+[**Build, Secure, and Monitor Networks on AWS (日本語)**](https://explore.skillbuilder.aws/learn/courses/16303/build-secure-and-monitor-networks-on-aws-ri-ben-yu)
+アクセス権がないようです
+
 [**Building VPC, S3, EC2, and RDS Products with AWS Service Catalog (日本語)**]()
 not yet
 
