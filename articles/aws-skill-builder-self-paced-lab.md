@@ -50,7 +50,8 @@ $\textcolor{green}{tag}$: Amazon Simple Storage Service (S3)
 
 
 [**Lab - Integrating Amazon DynamoDB (日本語)**](https://explore.skillbuilder.aws/learn/courses/21336/lab-integrating-amazon-dynamodb-ri-ben-yu)
-#ラボを開始するとなぜか学習ダッシュボードのホームに戻るため受講できませんでした。
+Amazon DynamoDBをPythonスクリプト（Boto3 SDK使用）で操作し、データの挿入と取得を実践します。VS Code IDE上で既存コードを修正し、DynamoDBコンソールとAWS CLIでテーブルの確認とテストを行います。
+tag: Amazon DynamoDB, AWS SDK for Python (Boto3), AWS CLI
 
 
 ### 40分
@@ -492,7 +493,12 @@ tag: Amazon Transcribe, Amazon Translate, Amazon Polly, AWS Elemental MediaConve
 tag: Amazon VPC, AWS Transit Gateway, Amazon EC2, AWS Systems Manager
 
 
+[**Troubleshooting Network Connectivity in a Peered VPC (日本語)**](https://explore.skillbuilder.aws/learn/courses/22055/troubleshooting-network-connectivity-in-a-peered-vpc-ri-ben-yu)
+VPCピアリング接続におけるネットワーク接続の問題をトラブルシューティングし、修正する方法を学びます。AWS Reachability Analyzerを使用して接続の問題を特定し、Amazon VPCのルートテーブル、セキュリティグループ、ネットワークACLの設定を修正してHTTPクライアントとサーバー間の通信を確立します。
+tag: Amazon VPC, Amazon EC2, AWS Network Manager (Reachability Analyzer)
 
+
+[****]()
 [****]()
 [****]()
 [****]()
@@ -534,4 +540,4 @@ inspector:CreateResourceGroup を実行する権限がありません。
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
+Streaming Dynamic Content using Amazon CloudFront
