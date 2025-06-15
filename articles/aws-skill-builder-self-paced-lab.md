@@ -102,6 +102,12 @@ AWS Well-Architected ToolでAmazon DynamoDB実装向けのカスタムレンズ�
 tag: AWS Well-Architected Tool
 
 
+[**Introduction to Amazon ElastiCache with Windows Server (日本語)**](https://explore.skillbuilder.aws/learn/courses/8582/introduction-to-amazon-elasticache-with-windows-server-ri-ben-yu)
+Amazon ElastiCache (Redis)**クラスターを作成し、Amazon EC2インスタンスから接続してキャッシュ操作を体験します。Redisクライアントを介してコマンドを実行し、ElastiCacheがウェブアプリケーションのパフォーマンスをいかに向上させるかを学びます。
+tag: Amazon ElastiCache (Redis), Amazon EC2, AWS Systems Manager (Fleet Manager)
+
+
+
 #### メンテナンス中
 [**Introduction to AWS CloudFormation Designer (日本語)**](https://explore.skillbuilder.aws/learn/courses/10977/introduction-to-aws-cloudformation-designer-ri-ben-yu)
 
