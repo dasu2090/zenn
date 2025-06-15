@@ -50,7 +50,8 @@ $\textcolor{green}{tag}$: Amazon Simple Storage Service (S3)
 
 
 [**Lab - Integrating Amazon DynamoDB (日本語)**](https://explore.skillbuilder.aws/learn/courses/21336/lab-integrating-amazon-dynamodb-ri-ben-yu)
-#ラボを開始するとなぜか学習ダッシュボードのホームに戻るため受講できませんでした。
+Amazon DynamoDBをPythonスクリプト（Boto3 SDK使用）で操作し、データの挿入と取得を実践します。VS Code IDE上で既存コードを修正し、DynamoDBコンソールとAWS CLIでテーブルの確認とテストを行います。
+tag: Amazon DynamoDB, AWS SDK for Python (Boto3), AWS CLI
 
 
 ### 40分
@@ -95,6 +96,17 @@ tag: Amazon S3
 [**Introduction to AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7502/introduction-to-aws-lambda-ri-ben-yu)
 イベント駆動型のAWS Lambdaの基本を学び、S3への画像アップロードをトリガーに画像のサムネイルを自動生成するLambda関数を作成します。S3をイベントソースとして設定し、CloudWatch LogsでLambda関数の実行状況をモニタリングします。
 tag: AWS Lambda, Amazon CloudWatch, Amazon S3
+
+
+[**Custom Lenses using the AWS Well-Architected Tool (日本語版)**](https://explore.skillbuilder.aws/learn/courses/17237/custom-lenses-using-the-aws-well-architected-tool-ri-ben-yu)
+AWS Well-Architected ToolでAmazon DynamoDB実装向けのカスタムレンズを作成し、公開する方法を学びます。カスタムレンズのJSONテンプレートを編集して信頼性に関する質問とリスクルールを定義し、それをツールにアップロードしてワークロードのレビューに利用できるようにします。
+tag: AWS Well-Architected Tool
+
+
+[**Introduction to Amazon ElastiCache with Windows Server (日本語)**](https://explore.skillbuilder.aws/learn/courses/8582/introduction-to-amazon-elasticache-with-windows-server-ri-ben-yu)
+Amazon ElastiCache (Redis)**クラスターを作成し、Amazon EC2インスタンスから接続してキャッシュ操作を体験します。Redisクライアントを介してコマンドを実行し、ElastiCacheがウェブアプリケーションのパフォーマンスをいかに向上させるかを学びます。
+tag: Amazon ElastiCache (Redis), Amazon EC2, AWS Systems Manager (Fleet Manager)
+
 
 
 #### メンテナンス中
@@ -237,6 +249,10 @@ SSL証明書の信頼性が原因
 
 
 ### 2時間
+
+[**Build, Secure, and Monitor Networks on AWS (日本語)**](https://explore.skillbuilder.aws/learn/courses/16303/build-secure-and-monitor-networks-on-aws-ri-ben-yu)
+アクセス権がないようです
+
 [**Building VPC, S3, EC2, and RDS Products with AWS Service Catalog (日本語)**]()
 not yet
 
@@ -477,7 +493,12 @@ tag: Amazon Transcribe, Amazon Translate, Amazon Polly, AWS Elemental MediaConve
 tag: Amazon VPC, AWS Transit Gateway, Amazon EC2, AWS Systems Manager
 
 
+[**Troubleshooting Network Connectivity in a Peered VPC (日本語)**](https://explore.skillbuilder.aws/learn/courses/22055/troubleshooting-network-connectivity-in-a-peered-vpc-ri-ben-yu)
+VPCピアリング接続におけるネットワーク接続の問題をトラブルシューティングし、修正する方法を学びます。AWS Reachability Analyzerを使用して接続の問題を特定し、Amazon VPCのルートテーブル、セキュリティグループ、ネットワークACLの設定を修正してHTTPクライアントとサーバー間の通信を確立します。
+tag: Amazon VPC, Amazon EC2, AWS Network Manager (Reachability Analyzer)
 
+
+[****]()
 [****]()
 [****]()
 [****]()
@@ -519,4 +540,4 @@ inspector:CreateResourceGroup を実行する権限がありません。
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
 
-Streaming Dynamic Content using Amazon CloudFront Troubleshooting Network Connectivity in a Peered VPC
+Streaming Dynamic Content using Amazon CloudFront
