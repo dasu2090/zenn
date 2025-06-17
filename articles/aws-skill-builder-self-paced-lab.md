@@ -543,7 +543,15 @@ inspector:CreateResourceGroup を実行する権限がありません。
 tag: Amazon EFS, AWS Lambda, AWS Cloud9
 
 
+[**Accessing the Internet from Lambda in a VPC (日本語)**](https://explore.skillbuilder.aws/learn/courses/17427/accessing-the-internet-from-lambda-in-a-vpc-ri-ben-yu)
+Amazon Virtual Private Cloud (VPC)にアタッチされたAWS Lambda関数がインターネットにアクセスできない問題をトラブルシューティングします。Lambda関数をプライベートサブネットに接続し、NATゲートウェイ経由でインターネットへのルーティングを設定し、ネットワークACLおよびセキュリティグループのルールを適切に構成することでインターネット接続を実現します。
+tag: AWS Lambda, Amazon VPC
 
+
+
+[****]()
+[****]()
+[****]()
 [****]()
 [****]()
 
