@@ -498,13 +498,6 @@ VPCピアリング接続におけるネットワーク接続の問題をトラ�
 tag: Amazon VPC, Amazon EC2, AWS Network Manager (Reachability Analyzer)
 
 
-[****]()
-[****]()
-[****]()
-[****]()
-
-
-
 [**Scale Your Security Vulnerability Testing with Amazon Inspector (日本語)**](https://explore.skillbuilder.aws/learn/courses/6944/scale-your-security-vulnerability-testing-with-amazon-inspector-ri-ben-yu)
 問い合わせ中
 inspector:CreateResourceGroup を実行する権限がありません。
@@ -539,5 +532,31 @@ inspector:CreateResourceGroup を実行する権限がありません。
 [**Secure Your Account During an Active Event (日本語)**](https://explore.skillbuilder.aws/learn/courses/15851/secure-your-account-during-an-active-event-ri-ben-yu)
 ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
+[**Streaming Dynamic Content using Amazon CloudFront (日本語)**](https://explore.skillbuilder.aws/learn/courses/11694/streaming-dynamic-content-using-amazon-cloudfront-ri-ben-yu)
+ラボは現在メンテナンス中です。後でもう一度試すか、別のラボを選択してください。
 
-Streaming Dynamic Content using Amazon CloudFront
+
+# 上級
+
+[**Using Amazon Elastic File System (Amazon EFS) with AWS Lambda: Persistent Storage for Serverless Applications (日本語)**](https://explore.skillbuilder.aws/learn/courses/15407/using-amazon-elastic-file-system-amazon-efs-with-aws-lambda-persistent-storage-for-serverless-applications-ri-ben-yu)
+サーバーレス動画処理アプリケーションの永続ストレージとしてAmazon Elastic File System (Amazon EFS)を設定・利用する方法を学びます。AWS Lambda関数とAWS Cloud9インスタンスからEFSファイルシステムへアクセスし、動画処理ワークフローをテストします。
+tag: Amazon EFS, AWS Lambda, AWS Cloud9
+
+
+[**Accessing the Internet from Lambda in a VPC (日本語)**](https://explore.skillbuilder.aws/learn/courses/17427/accessing-the-internet-from-lambda-in-a-vpc-ri-ben-yu)
+Amazon Virtual Private Cloud (VPC)にアタッチされたAWS Lambda関数がインターネットにアクセスできない問題をトラブルシューティングします。Lambda関数をプライベートサブネットに接続し、NATゲートウェイ経由でインターネットへのルーティングを設定し、ネットワークACLおよびセキュリティグループのルールを適切に構成することでインターネット接続を実現します。
+tag: AWS Lambda, Amazon VPC
+
+
+[**Resolve VPC Routing Conflicts (日本語)**](https://explore.skillbuilder.aws/learn/courses/15877/resolve-vpc-routing-conflicts-ri-ben-yu)
+ピアリング接続された2つのAmazon VPCでホストされている2層ウェブアプリケーションのルーティング問題を解決します。Application Load Balancer (ALB)とターゲットEC2インスタンス間の接続、およびALBのDNS解決に関するトラブルシューティングを行います。
+tag: Amazon VPC, Application Load Balancer (ALB), Amazon EC2
+
+
+[****]()
+[****]()
+[****]()
+[****]()
+
+
+
