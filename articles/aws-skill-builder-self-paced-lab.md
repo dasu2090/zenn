@@ -553,10 +553,18 @@ tag: AWS Lambda, Amazon VPC
 tag: Amazon VPC, Application Load Balancer (ALB), Amazon EC2
 
 
-[****]()
-[****]()
+[**Benchmarking Amazon EBS Volumes (日本語)**](https://explore.skillbuilder.aws/learn/courses/15364/benchmarking-amazon-ebs-volumes-ri-ben-yu)
+Amazon EBSボリュームのベンチマークを行い、IOPSとスループットのパフォーマンスを測定します。FIOを使って様々なI/Oワークロードをシミュレートし、Amazon CloudWatchでパフォーマンスをモニタリングしながら、ディスクストライピング（RAID 0）による最適化も学びます。
+tag: Amazon EBS, Amazon EC2, Amazon CloudWatch
+
+
+
+
 [****]()
 [****]()
 
+
+[**Build Custom Reports of AWS Well-Architected Framework Reviews (日本語)**](https://explore.skillbuilder.aws/learn/courses/17064/build-custom-reports-of-aws-well-architected-framework-reviews-ri-ben-yu)
+アクセス権がないようです
 
 
