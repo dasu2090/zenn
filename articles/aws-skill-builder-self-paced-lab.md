@@ -548,8 +548,11 @@ Amazon Virtual Private Cloud (VPC)にアタッチされたAWS Lambda関数がイ
 tag: AWS Lambda, Amazon VPC
 
 
+[**Resolve VPC Routing Conflicts (日本語)**](https://explore.skillbuilder.aws/learn/courses/15877/resolve-vpc-routing-conflicts-ri-ben-yu)
+ピアリング接続された2つのAmazon VPCでホストされている2層ウェブアプリケーションのルーティング問題を解決します。Application Load Balancer (ALB)とターゲットEC2インスタンス間の接続、およびALBのDNS解決に関するトラブルシューティングを行います。
+tag: Amazon VPC, Application Load Balancer (ALB), Amazon EC2
 
-[****]()
+
 [****]()
 [****]()
 [****]()
