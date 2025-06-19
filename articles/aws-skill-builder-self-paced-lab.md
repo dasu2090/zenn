@@ -553,10 +553,23 @@ tag: AWS Lambda, Amazon VPC
 tag: Amazon VPC, Application Load Balancer (ALB), Amazon EC2
 
 
-[****]()
+[**Benchmarking Amazon EBS Volumes (日本語)**](https://explore.skillbuilder.aws/learn/courses/15364/benchmarking-amazon-ebs-volumes-ri-ben-yu)
+Amazon EBSボリュームのベンチマークを行い、IOPSとスループットのパフォーマンスを測定します。FIOを使って様々なI/Oワークロードをシミュレートし、Amazon CloudWatchでパフォーマンスをモニタリングしながら、ディスクストライピング（RAID 0）による最適化も学びます。
+tag: Amazon EBS, Amazon EC2, Amazon CloudWatch
+
+
+[**Migrating On-Premises NFS Using AWS DataSync and AWS Storage Gateway (日本語)**](https://explore.skillbuilder.aws/learn/courses/16278/migrating-on-premises-nfs-using-aws-datasync-and-aws-storage-gateway-ri-ben-yu)
+AWS DataSyncとAWS Storage Gateway (ファイルゲートウェイ)を使用して、オンプレミスのNFSファイル共有をAmazon S3へ移行します。既存アプリケーションへの変更なしにデータ保護を強化し、物理インフラ、コスト、複雑さを削減しつつ、データへの低レイテンシーアクセスを実現します。
+tag: AWS DataSync, AWS Storage Gateway (ファイルゲートウェイ), Amazon S3, Amazon EC2
+
+
+
 [****]()
 [****]()
 [****]()
 
+
+[**Build Custom Reports of AWS Well-Architected Framework Reviews (日本語)**](https://explore.skillbuilder.aws/learn/courses/17064/build-custom-reports-of-aws-well-architected-framework-reviews-ri-ben-yu)
+アクセス権がないようです
 
 
