@@ -558,8 +558,13 @@ Amazon EBSボリュームのベンチマークを行い、IOPSとスループッ
 tag: Amazon EBS, Amazon EC2, Amazon CloudWatch
 
 
+[**Migrating On-Premises NFS Using AWS DataSync and AWS Storage Gateway (日本語)**](https://explore.skillbuilder.aws/learn/courses/16278/migrating-on-premises-nfs-using-aws-datasync-and-aws-storage-gateway-ri-ben-yu)
+AWS DataSyncとAWS Storage Gateway (ファイルゲートウェイ)を使用して、オンプレミスのNFSファイル共有をAmazon S3へ移行します。既存アプリケーションへの変更なしにデータ保護を強化し、物理インフラ、コスト、複雑さを削減しつつ、データへの低レイテンシーアクセスを実現します。
+tag: AWS DataSync, AWS Storage Gateway (ファイルゲートウェイ), Amazon S3, Amazon EC2
 
 
+
+[****]()
 [****]()
 [****]()
 
