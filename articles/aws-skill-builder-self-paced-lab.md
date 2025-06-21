@@ -226,6 +226,9 @@ tag: Amazon Elastic Container Registry (Amazon ECR), Amazon Elastic Container Se
 [**Securing VPC Resources with Security Groups (日本語)**](https://explore.skillbuilder.aws/learn/courses/13855/securing-vpc-resources-with-security-groups-ri-ben-yu)
 メンテナンス
 
+[**Becoming a 10X Developer Using Amazon CodeWhisperer (日本語)**](https://explore.skillbuilder.aws/learn/courses/18175/becoming-a-10x-developer-using-amazon-codewhisperer-ri-ben-yu)
+アクセス権が無い
+
 
 ### 1時間15分
 
@@ -246,6 +249,12 @@ SSL証明書の信頼性が原因
 [**Getting Started with Amazon Comprehend: Custom Classification (日本語)**](https://explore.skillbuilder.aws/learn/courses/15277/getting-started-with-amazon-comprehend-custom-classification-ri-ben-yu)
 
 [**Serverless Architectures using Amazon CloudWatch Events and Scheduled Events with AWS Lambda (日本語)**](https://explore.skillbuilder.aws/learn/courses/7760/serverless-architectures-using-amazon-cloudwatch-events-and-scheduled-events-with-aws-lambda-ri-ben-yu)
+
+
+### 1時間15分
+[**Troubleshooting connectivity using EC2 Serial Console (日本語)**](https://explore.skillbuilder.aws/learn/courses/15892/troubleshooting-connectivity-using-ec2-serial-console-ri-ben-yu)
+Linux FTPサーバーのデプロイ中に発生した接続問題をEC2 シリアルコンソールでトラブルシューティングします。EC2シリアルコンソールの有効化、アクセス許可付与、接続方法を学び、Amazon EC2インスタンスに接続できない問題を解決します。
+tag: Amazon EC2
 
 
 ### 2時間
