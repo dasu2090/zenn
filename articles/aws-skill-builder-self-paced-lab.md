@@ -3,7 +3,7 @@ title: "aws skill builder self paced lab"
 emoji: "👻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws"]
-published: false
+published: true
 ---
 
 6/6 レイアウトが変わった
