@@ -6,6 +6,9 @@ topics: ["aws"]
 published: false
 ---
 
+全部をやるのは無理だと
+AWS Jamが一番いい
+
 6/6 レイアウトが変わった
 
 インスタンスクラス
