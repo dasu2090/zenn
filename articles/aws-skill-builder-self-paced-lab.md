@@ -6,9 +6,13 @@ topics: ["aws"]
 published: false
 ---
 
-全部をやるのは無理だと
-AWS Jamが一番いい
+AWS Jam
 
+[Networking on AWS](https://skillbuilder.aws/learn/CQKQ7K1U53/networking-on-aws/ETXERQQ271)
+[Security: Identity Management and Access Control (Advanced)] (https://skillbuilder.aws/learn/317B53NVWW/security-identity-management-and-access-control-intermediate/3UT9HPFZUW)
+
+
+全部をやるのは無理だと
 6/6 レイアウトが変わった
 
 インスタンスクラス
