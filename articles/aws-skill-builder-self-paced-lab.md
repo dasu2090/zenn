@@ -10,9 +10,10 @@ AWS Jam
 
 [Networking on AWS](https://skillbuilder.aws/learn/CQKQ7K1U53/networking-on-aws/ETXERQQ271)
 [Security: Identity Management and Access Control (Advanced)] (https://skillbuilder.aws/learn/317B53NVWW/security-identity-management-and-access-control-intermediate/3UT9HPFZUW)
+[DevOps on AWS (Foundational)](https://skillbuilder.aws/learn/V3MWWYNYU3/devops-on-aws-foundational/78BCCCHASY)
 
 
-全部をやるのは無理だと
+全部をやるのは無理だ
 6/6 レイアウトが変わった
 
 インスタンスクラス
