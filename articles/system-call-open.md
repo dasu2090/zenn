@@ -3,7 +3,7 @@ title: "O_EXCLで学ぶ：アトミック操作とレースコンディション
 emoji: "👏"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["linux"]
-published: false
+published: true
 ---
 
 ## **1. はじめに**
